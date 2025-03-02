@@ -1,13 +1,13 @@
 [
     {
-        "topic" : "FTN",
+        "topic" : "Full Width",
         "items" : [
             [
                 {
                     "type" : "full",
                     "messages" : [
-                        "You are watching IORA Season 7 at Atlanta Motor Speedway on FTN",
-                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
+                        "This is a short message.",
+                        "This is a longer message that should scroll off to the left because it's long."
                     ]
                 }
             ]
