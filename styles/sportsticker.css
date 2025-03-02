@@ -58,7 +58,7 @@
     bottom: 0;
     width: 100%;
     height: 75px;
-    background: linear-gradient(#373737 0%, #1D1D1D 21%, #1D1D1D 69%, #696969 69%);
+    background: linear-gradient(#1B1B1B 0%, #282828 10%, #0C0C0C 15%, #373737 16%, #1D1D1D 19%, #1D1D1D 47%, #696969 47%);
     line-height: 20px;
     transform: translate3d(0,0,0);
 }
