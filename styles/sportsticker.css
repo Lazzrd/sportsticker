@@ -58,7 +58,7 @@
     bottom: 0;
     width: 100%;
     height: 75px;
-    background: linear-gradient(#777777, #8B0000, #000000, #222222, #333333, #333333);
+    background: linear-gradient(#373737 0%, #1D1D1D 21%, #1D1D1D 69%, #696969 69%);
     line-height: 20px;
     transform: translate3d(0,0,0);
 }
@@ -242,7 +242,7 @@
     float: left;
 }
 #st-wrapper .score-container {
-    background: none repeat scroll 0 0 #d00;
+    background: none repeat scroll 0 0 #8A0904;
     display: inline-block;
     font-size: 30px;
     height: 40px;
@@ -318,7 +318,7 @@
     left: 520px;
 }
 #st-wrapper .winner {
-    color: #CCCC00 !important;
+    color: #F8C05D !important;
 }
 @keyframes exit_badge {0% { top: 0px; } 100% { top: -40px; }}
 @keyframes exit_message {0% { top: 0px; } 100% { top: -40px; }}
