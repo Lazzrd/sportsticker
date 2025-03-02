@@ -26,17 +26,6 @@
                         "After Race 2 points leader Sean Rowe falls back to 4th in the standings as Daniel Mosteller jumps up to 2nd just 6 points behind new points leader Michael Mitcham, after a 3rd place finish for the 87."
                     ]
                 }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "orange",
-                    "badgeText" : "Badge Two",
-                    "messages" : [
-                        "Badges can be any color you desire!",
-                        "All feed types can also contain multiple messages."
-                    ]
-                }
             ]
         ]
     },
