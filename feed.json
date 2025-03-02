@@ -1,35 +1,36 @@
 [
     {
-        "topic" : "Full Width",
+        "topic" : "FTN",
         "items" : [
             [
                 {
                     "type" : "full",
                     "messages" : [
-                        "This is a short message.",
-                        "This is a longer message that should scroll off to the left because it's long."
+                        "You are watching IORA Season 7 at Atlanta Motor Speedway on FTN",
+                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
                     ]
                 }
             ]
         ]
     },
     {
-        "topic" : "Badges",
+        "topic" : "IORA",
         "items" : [
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "blue",
-                    "badgeText" : "Badge One",
+                    "badgeColor" : "#B22598",
+                    "badgeText" : "Points",
                     "messages" : [
-                        "Messages can have descriptive badges as well."
+                        "1. Mitcham 83    2. Mosteller 77    3. Walker 76    4. Rowe 75    5. Shugol 66    6. Andersen 67   7. Liles 67    8. Thurston 61    9. DeAngelis 59    10. Truther 57    11. Deitch 57    12. Contreras 57",
+                        "After Race 2 points leader Sean Rowe falls back to 4th in the standings as Daniel Mosteller jumps up to 2nd just 6 points behind new points leader Michael Mitcham, after a 3rd place finish for the 87."
                     ]
                 }
             ],
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "orange",
+                    "badgeColor" : "#C9399B",
                     "badgeText" : "Badge Two",
                     "messages" : [
                         "Badges can be any color you desire!",
@@ -40,7 +41,7 @@
         ]
     },
     {
-        "topic" : "Match-ups",
+        "topic" : "HCBB ML",
         "items" : [
             [
                 {
@@ -48,16 +49,15 @@
                     "team1" : {
                         "logo" : "images/turboLFfacingright.png",
                         "name" : "Detroit",
-                        "rank" : "8 (D2)"
+                        "rank" : null
                     },
                     "team2" : {
                         "logo" : "images/MinnesotaBlizzardsWolfO.png",
                         "name" : "Minnesota",
-                        "rank" : "3 (D1)"
+                        "rank" : null
                     },
                     "messages" : [
-                        "DepressingApple crashes out after a generationally bad season from the Detroit Turbos",
-                        "FTN interested in selling the team after Detroits record of 3-27."
+                        "8:00 PM ET",
                     ]
                 }
             ],
