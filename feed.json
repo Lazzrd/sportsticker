@@ -14,23 +14,22 @@
         ]
     },
     {
-        "topic" : "IORA",
+        "topic" : "Badges",
         "items" : [
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#B22598",
-                    "badgeText" : "Points",
+                    "badgeColor" : "blue",
+                    "badgeText" : "Badge One",
                     "messages" : [
-                        "1. Mitcham 83    2. Mosteller 77    3. Walker 76    4. Rowe 75    5. Shugol 66    6. Andersen 67   7. Liles 67    8. Thurston 61    9. DeAngelis 59    10. Truther 57    11. Deitch 57    12. Contreras 57",
-                        "After Race 2 points leader Sean Rowe falls back to 4th in the standings as Daniel Mosteller jumps up to 2nd just 6 points behind new points leader Michael Mitcham, after a 3rd place finish for the 87."
+                        "Messages can have descriptive badges as well."
                     ]
                 }
             ],
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#C9399B",
+                    "badgeColor" : "orange",
                     "badgeText" : "Badge Two",
                     "messages" : [
                         "Badges can be any color you desire!",
