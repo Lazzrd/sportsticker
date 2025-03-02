@@ -7,22 +7,23 @@
                     "type" : "full",
                     "messages" : [
                         "You're watching the IORA Cup Series at Atlanta Motor Speedway on FTN",
-                        "This is a longer message that should scroll off to the left because it's long."
+                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel."
                     ]
                 }
             ]
         ]
     },
     {
-        "topic" : "Badges",
+        "topic" : "IORA",
         "items" : [
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "blue",
-                    "badgeText" : "Badge One",
+                    "badgeColor" : "#B22598",
+                    "badgeText" : "Points",
                     "messages" : [
-                        "Messages can have descriptive badges as well."
+                        "1. Mitcham 83    2. Mosteller 77    3. Walker 76    4. Rowe 75    5. Shugol 66    6. Andersen 67   7. Liles 67    8. Thurston 61    9. DeAngelis 59    10. Truther 57    11. Deitch 57    12. Contreras 57",
+                        "After Race 2 points leader Sean Rowe falls back to 4th in the standings as Daniel Mosteller jumps up to 2nd just 6 points behind new points leader Michael Mitcham, after a 3rd place finish for the 87."
                     ]
                 }
             ],
@@ -40,7 +41,7 @@
         ]
     },
     {
-        "topic" : "Match-ups",
+        "topic" : "HCBB",
         "items" : [
             [
                 {
