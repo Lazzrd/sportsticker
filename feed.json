@@ -6,7 +6,7 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "This is a short message.",
+                        "This is a test so dre can see that it works.",
                         "This is a longer message that should scroll off to the left because it's long."
                     ]
                 }
