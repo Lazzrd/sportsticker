@@ -47,12 +47,12 @@
                     "type" : "matchup",
                     "team1" : {
                         "logo" : "images/afcw_denver-only.png",
-                        "name" : "Denver",
-                        "rank" : "1"
+                        "name" : "Detroit",
+                        "rank" : "null"
                     },
                     "team2" : {
                         "logo" : "images/afcs_indianapolis-only.png",
-                        "name" : "Indianapolis",
+                        "name" : "Minnesota",
                         "rank" : null
                     },
                     "messages" : [
