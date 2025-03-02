@@ -46,18 +46,18 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/afcw_denver-only.png",
+                        "logo" : "turboLFfacingright.png",
                         "name" : "Detroit",
-                        "rank" : "null"
+                        "rank" : "8 (D2)"
                     },
                     "team2" : {
-                        "logo" : "images/afcs_indianapolis-only.png",
+                        "logo" : "MinnesotaBlizzardsWolfO.png",
                         "name" : "Minnesota",
-                        "rank" : null
+                        "rank" : "3 (D1)"
                     },
                     "messages" : [
-                        "Show upcoming matchups with logos and optional rankings.",
-                        "Pretty cool, eh?"
+                        "DepressingApple crashes out after a generationally bad season from the Detroit Turbos",
+                        "FTN interested in selling the team after Detroits record of 3-27."
                     ]
                 }
             ],
