@@ -163,6 +163,7 @@
 }
 #st-wrapper .message {
     font-size: 30px;
+    font-style: italic;
     height: 40px;
     line-height: 40px;
     position: relative;
@@ -194,6 +195,7 @@
 #st-wrapper .message.score-supplemental > ul li {
     line-height: 40px;
     font-size: 25px;
+    font-style: italic;
 }
 #st-ticker-logo {
     display: block;
