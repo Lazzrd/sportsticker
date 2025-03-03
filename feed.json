@@ -34,6 +34,12 @@
         "items" : [
             [
                 {
+                    "type" : "full",
+                    "messages" : [
+                        "Join the official HCBB discord today, discord.gg/hcbb!"
+                    ]
+                }
+                {
                     "type" : "matchup",
                     "team1" : {
                         "logo" : "images/turboLFfacingright.png",
@@ -54,61 +60,111 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/nfcn_chicago-only.png",
-                        "name" : "Chicago"
+                        "logo" : "images/Chicago Raven.png",
+                        "name" : "Ravens"
                     },
                     "team2" : {
-                        "logo" : "images/nfcn_greenbay-only.png",
-                        "name" : "Green Bay"
+                        "logo" : "images/Orlando Dragons Shield Blue.png",
+                        "name" : "Dragons"
                     },
                     "messages" : [
-                        "Another matchup."
+                        "8:00 PM ET"
                     ]
                 }
-            ]
-        ]
-    },
-    {
-        "topic" : "Scores",
-        "items" : [
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/ArchersMainLogo.png",
+                        "name" : "Archers",
+                        "rank" : null
+                    },
+                    "team2" : {
+                        "logo" : "images/PanthersMainLogo.png",
+                        "name" : "Panthers",
+                        "rank" : null
+                    },
+                    "messages" : [
+                        "9:00 PM ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/rebels.png",
+                        "name" : "Rebels",
+                        "rank" : null
+                    },
+                    "team2" : {
+                        "logo" : "images/Firebirds.png",
+                        "name" : "Firebirds",
+                        "rank" : null
+                    },
+                    "messages" : [
+                        "9:00 PM ET"
+                    ]
+                }
+            ],
             [
                 {
                     "type" : "scores",
                     "isFinal" : true,
                     "team1" : {
-                        "rank" : 12,
-                        "name" : "Cowboys",
-                        "points" : 41
+                        "rank" : null,
+                        "name" : "Tigers",
+                        "points" : 7
                     },
                     "team2" : {
-                        "rank" : 1,
-                        "name" : "Broncos",
-                        "points" : 44
+                        "rank" : null,
+                        "name" : "Bears",
+                        "points" : 3
                     },
                     "messages" : [
-                        "Scores can be displayed 2 different ways.",
-                        "This is the default scores template.",
-                        "If the score is final, the winner is highlighted."
-                    ]
-                },
-                {
-                    "type" : "scores-abbr",
-                    "isFinal" : true,
-                    "team1" : {
-                        "abbr" : "Dal",
-                        "points" : 41
-                    },
-                    "team2" : {
-                        "rank" : 1,
-                        "abbr" : "Den",
-                        "points" : 44
-                    },
-                    "messages" : [
-                        "This is the abbreviated scores template.",
-                        "More room for details."
+                        "FINAL"
                     ]
                 }
-            ]
+            ],
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : null,
+                        "name" : "Bengals",
+                        "points" : 0
+                    },
+                    "team2" : {
+                        "rank" : null,
+                        "name" : "Sharks",
+                        "points" : 2
+                    },
+                    "messages" : [
+                        "FINAL"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : null,
+                        "name" : "Jailbirds",
+                        "points" : 1
+                    },
+                    "team2" : {
+                        "rank" : null,
+                        "name" : "Bulls",
+                        "points" : 1
+                    },
+                    "messages" : [
+                        "WATCH NOW ON HCBB 9v9 ON ROBLOX"
+                    ]
+                }
+            ],
         ]
     }
 ]
