@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Titillium+Web:300,400,600);
+@import url(https://use.typekit.net/nzb2faq.css:500);
 @import url('normalize.css');
 #st-wrapper ul,
 #st-wrapper ol {
@@ -52,7 +52,7 @@
 }
 /** directive specific below **/
 #st-wrapper {
-    font-family: 'Titillium Web',"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'franklin-gothic-atf',"franklin-gothic-atf", Helvetica, Arial, sans-serif;
     background: #000;
     position: fixed;
     bottom: 0;
@@ -92,7 +92,7 @@
 #st-ticker-topic h3,#st-ticker-intro h3 {
     font-size: 23px;
     font-style: italic;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1;
     margin: 0 0 3px;
     text-transform: uppercase;
@@ -148,7 +148,7 @@
     display: block;
     float: left;
     font-size: 37px;
-    font-weight: 400;
+    font-weight: 500;
     height: 40px;
     line-height: 1;
     margin: 0 15px 0 -5px;
@@ -173,7 +173,7 @@
     width: 340px;
     display: inline-block;
     left: 0;
-    font-weight: 300;
+    font-weight: 500;
     vertical-align: top;
 
 }
@@ -283,7 +283,7 @@
 }
 #st-wrapper .rank_vs {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 500;
 }
 #st-wrapper img.matchup-logo {
     max-height: 80px;
