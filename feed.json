@@ -6,31 +6,73 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "You're watching the IORA Cup Series at Atlanta Motor Speedway on FTN",
-                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel."
+                        "You're watching the HCBB Main League on FTN",
+                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
                     ]
                 }
             ]
         ]
     },
     {
-        "topic" : "IORA",
+        "topic" : "HCBB Standings",
         "items" : [
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#B22598",
-                    "badgeText" : "Points",
+                    "badgeColor" : "#006341",
+                    "badgeText" : "Standings",
                     "messages" : [
-                        "1. Mitcham 83 | 2. Mosteller 77 | 3. Walker 76 | 4. Rowe 75 | 5. Shugol 66 | 6. Andersen 67 | 7. Liles 67 | 8. Thurston 61 | 9. DeAngelis 59 | 10. Truther 57 | 11. Deitch 57 | 12. Contreras 57",
-                        "After Race 2 points leader Sean Rowe falls back to 4th in the standings as Daniel Mosteller jumps up to 2nd just 6 points behind new points leader Michael Mitcham, after a 3rd place finish for the 87."
+                        "1. MIN | 2. CHR 0GB | 3. NHF 0GB | 4. LAR 1GB | 5. FLA 2GB | 6. ARI 2GB | 7. DET 2GB | 8. PHI 4GB | 9. SD 4GB | 10. MIL 4GB | 11. ATL 6GB | 12. NSH 6GB | 13. ANA 9GB | 14. WCH 9GB"
                     ]
                 }
             ]
         ]
     },
     {
-        "topic" : "HCBB",
+        "topic" : "HCBB Trades",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#006341",
+                    "badgeText" : "ROUND 24",
+                    "messages" : [
+                        "NSH Recieves: Aervial, cremekid0528 | MIL Recieves: aceelord",
+                        "WCH Recieves: Yourhometown, ajpenn | FLA Recieves: bignate0609",
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "HCBB Waivers",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#FB447F",
+                    "badgeText" : "SD",
+                    "messages" : [
+                        "datfella removed from roster",
+                        "receives: BOSQUETBOS",
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#526FFF",
+                    "badgeText" : "MIN",
+                    "messages" : [
+                        "sk17ty removed from roster",
+                        "receives: HOMIXIDEJAKOBE",
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "HCBB Game Times",
         "items" : [
             [
                 {
@@ -44,17 +86,17 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/turboLFfacingright.png",
-                        "name" : "Turbos",
-                        "rank" : null
+                        "logo" : "imagesTropics.png",
+                        "name" : "Tropics",
+                        "rank" : 4
                     },
                     "team2" : {
-                        "logo" : "images/MinnesotaBlizzardsWolfO.png",
-                        "name" : "Blizzards",
-                        "rank" : null
+                        "logo" : "images/Reapers.png",
+                        "name" : "Reapers",
+                        "rank" : 9
                     },
                     "messages" : [
-                        "8:00 PM ET"
+                        "8 ET"
                     ]
                 }
             ],
@@ -62,108 +104,107 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Chicago Raven.png",
-                        "name" : "Ravens"
-                    },
-                    "team2" : {
-                        "logo" : "images/Orlando Dragons Shield Blue.png",
-                        "name" : "Dragons"
-                    },
-                    "messages" : [
-                        "8:00 PM ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/ArchersMainLogo.png",
-                        "name" : "Archers",
-                        "rank" : null
-                    },
-                    "team2" : {
-                        "logo" : "images/PanthersMainLogo.png",
-                        "name" : "Panthers",
-                        "rank" : null
-                    },
-                    "messages" : [
-                        "9:00 PM ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/rebels.png",
+                        "logo" : "images/Rebels.png",
                         "name" : "Rebels",
-                        "rank" : null
+                        "rank" : 11
+                    },
+                    "team2" : {
+                        "logo" : "images/Blues.png",
+                        "name" : "Blues",
+                        "rank" : 12
+                    },
+                    "messages" : [
+                        "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Wizards.png",
+                        "name" : "Wizards",
+                        "rank" : 14
                     },
                     "team2" : {
                         "logo" : "images/Firebirds.png",
                         "name" : "Firebirds",
-                        "rank" : null
+                        "rank" : 6
                     },
                     "messages" : [
-                        "9:00 PM ET"
+                        "8 ET"
                     ]
                 }
             ],
             [
                 {
-                    "type" : "scores",
-                    "isFinal" : true,
+                    "type" : "matchup",
                     "team1" : {
-                        "rank" : null,
-                        "name" : "Tigers",
-                        "points" : 7
+                        "logo" : "images/Turbos.png",
+                        "name" : "Turbos",
+                        "rank" : 7
                     },
                     "team2" : {
-                        "rank" : null,
-                        "name" : "Bears",
-                        "points" : 3
+                        "logo" : "images/HoneyBadgers.png",
+                        "name" : "Honey Badgers",
+                        "rank" : 10
                     },
                     "messages" : [
-                        "FINAL"
+                        "8 ET"
                     ]
                 }
             ],
             [
                 {
-                    "type" : "scores",
-                    "isFinal" : true,
+                    "type" : "matchup",
                     "team1" : {
-                        "rank" : null,
-                        "name" : "Bengals",
-                        "points" : 0
+                        "logo" : "images/Stars.png",
+                        "name" : "Stars",
+                        "rank" : 13
                     },
                     "team2" : {
-                        "rank" : null,
-                        "name" : "Sharks",
-                        "points" : 2
+                        "logo" : "images/Ravens.png",
+                        "name" : "Ravens",
+                        "rank" : 2
                     },
                     "messages" : [
-                        "FINAL"
+                        "9 ET"
                     ]
                 }
             ],
             [
                 {
-                    "type" : "scores",
-                    "isFinal" : true,
+                    "type" : "matchup",
                     "team1" : {
-                        "rank" : null,
-                        "name" : "Jailbirds",
-                        "points" : 1
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : 1
                     },
                     "team2" : {
-                        "rank" : null,
-                        "name" : "Bulls",
-                        "points" : 1
+                        "logo" : "images/Fighters.png",
+                        "name" : "Fighters",
+                        "rank" : 3
                     },
                     "messages" : [
-                        "WATCH NOW ON HCBB 9v9 ON ROBLOX"
+                        "9 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Flamingos.png",
+                        "name" : "Flamingos",
+                        "rank" : 5
+                    },
+                    "team2" : {
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
+                        "rank" : 8
+                    },
+                    "messages" : [
+                        "9 ET"
                     ]
                 }
             ]
