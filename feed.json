@@ -86,7 +86,7 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "imagesTropics.png",
+                        "logo" : "images/Tropics.png",
                         "name" : "Tropics",
                         "rank" : "9"
                     },
