@@ -88,12 +88,12 @@
                     "team1" : {
                         "logo" : "imagesTropics.png",
                         "name" : "Tropics",
-                        "rank" : 4
+                        "rank" : "9"
                     },
                     "team2" : {
                         "logo" : "images/Reapers.png",
                         "name" : "Reapers",
-                        "rank" : 9
+                        "rank" : "4"
                     },
                     "messages" : [
                         "8 ET"
@@ -106,12 +106,12 @@
                     "team1" : {
                         "logo" : "images/Rebels.png",
                         "name" : "Rebels",
-                        "rank" : 11
+                        "rank" : "11"
                     },
                     "team2" : {
                         "logo" : "images/Blues.png",
                         "name" : "Blues",
-                        "rank" : 12
+                        "rank" : "12"
                     },
                     "messages" : [
                         "8 ET"
@@ -124,12 +124,12 @@
                     "team1" : {
                         "logo" : "images/Wizards.png",
                         "name" : "Wizards",
-                        "rank" : 14
+                        "rank" : "14"
                     },
                     "team2" : {
                         "logo" : "images/Firebirds.png",
                         "name" : "Firebirds",
-                        "rank" : 6
+                        "rank" : "6"
                     },
                     "messages" : [
                         "8 ET"
@@ -142,12 +142,12 @@
                     "team1" : {
                         "logo" : "images/Turbos.png",
                         "name" : "Turbos",
-                        "rank" : 7
+                        "rank" : "7"
                     },
                     "team2" : {
                         "logo" : "images/HoneyBadgers.png",
                         "name" : "Honey Badgers",
-                        "rank" : 10
+                        "rank" : "10"
                     },
                     "messages" : [
                         "8 ET"
@@ -160,12 +160,12 @@
                     "team1" : {
                         "logo" : "images/Stars.png",
                         "name" : "Stars",
-                        "rank" : 13
+                        "rank" : "13"
                     },
                     "team2" : {
                         "logo" : "images/Ravens.png",
                         "name" : "Ravens",
-                        "rank" : 2
+                        "rank" : "2"
                     },
                     "messages" : [
                         "9 ET"
@@ -178,12 +178,12 @@
                     "team1" : {
                         "logo" : "images/Blizzards.png",
                         "name" : "Blizzards",
-                        "rank" : 1
+                        "rank" : "1"
                     },
                     "team2" : {
                         "logo" : "images/Fighters.png",
                         "name" : "Fighters",
-                        "rank" : 3
+                        "rank" : "3"
                     },
                     "messages" : [
                         "9 ET"
@@ -196,12 +196,12 @@
                     "team1" : {
                         "logo" : "images/Flamingos.png",
                         "name" : "Flamingos",
-                        "rank" : 5
+                        "rank" : "5"
                     },
                     "team2" : {
                         "logo" : "images/Surge.png",
                         "name" : "Surge",
-                        "rank" : 8
+                        "rank" : "8"
                     },
                     "messages" : [
                         "9 ET"
