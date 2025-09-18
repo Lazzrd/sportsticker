@@ -130,7 +130,7 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#000000",
+                    "badgeColor" : "#1E1E1E",
                     "badgeText" : "LAR",
                     "messages" : [
                         "Release: Flintstone_s",
