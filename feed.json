@@ -63,8 +63,8 @@
                     "badgeColor" : "#FB447F",
                     "badgeText" : "SD",
                     "messages" : [
-                        "datfella removed from roster",
-                        "receives: BOSQUETBOS"
+                        "datfella, damianHacker101 removed from roster",
+                        "receives: BOSQUETBOS, GoldenInsight"
                     ]
                 }
             ],
@@ -90,11 +90,7 @@
                     "badgeColor" : "#8C271E",
                     "badgeText" : "ATL",
                     "messages" : [
-                        "Signing: valkcoa",
-                        "Signing: OzzieAcunaJR",
-                        "Signing: dolante758",
-                        "Signing: Kirbyfootball3",
-                        "Signing: Ja_MK"
+                        "Signing: valkcoa, OzzieAcunaJR, dolante758, Kirbyfootball3, Ja_MK"
                     ]
                 }
             ],
@@ -135,8 +131,7 @@
                     "badgeColor" : "#1E1E1E",
                     "badgeText" : "LAR",
                     "messages" : [
-                        "Release: Flintstone_s",
-                        "Release: Imaserbianlol"
+                        "Release: Flintstone_s, Imaserbianlol, dx22_x"
                     ]
                 }
             ],
@@ -146,9 +141,7 @@
                     "badgeColor" : "#007FFF",
                     "badgeText" : "DET",
                     "messages" : [
-                        "Signing: ZMAN5513",
-                        "Signing: Flintstone_s",
-                        "Signing: Flamjngg",
+                        "Signing: ZMAN5513, Flintstone_s, Flamjngg,",
                         "Release: 3nauss"
                     ]
                 }
@@ -160,7 +153,20 @@
                     "badgeText" : "SD",
                     "messages" : [
                         "Signing: XxYouBoyAdrianXx",
-                        "Release: kennypar_X"
+                        "Release: kennypar_X",
+                        "Assistant Manager: C_apital, 0utspend"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#1C407A",
+                    "badgeText" : "NSH",
+                    "messages" : [
+                        "Signing: XxYouBoyAdrianXx",
+                        "Release: kennypar_X",
+                        "Assistant Manager: C_apital, 0utspend"
                     ]
                 }
             ]
