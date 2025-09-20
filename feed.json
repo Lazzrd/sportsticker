@@ -22,7 +22,7 @@
                     "badgeColor" : "#006341",
                     "badgeText" : "Standings",
                     "messages" : [
-                        "1. CHR | 2. MIN 0GB | 3. FLA 2GB | 4. NHF 2GB | 5. LAR 2GB | 6. ARI 3GB | 7. DET 3GB | 8. SD 4GB | 9. PHI 5GB | 10. MIL 6GB | 11. NSH 7GB | 12. ATL 8GB | 13. WCH 9GB | 14. ANA 9GB"
+                        "1. CHR | 2. MIN 0GB | 3. FLA 2GB | 4. NHF 3GB | 5. LAR 3GB | 6. ARI 3GB | 7. SD 4GB | 8. DET 4GB | 9. PHI 6GB | 10. MIL 6GB | 11. NSH 7GB | 12. ATL 8GB | 13. WCH 9GB | 14. ANA 9GB"
                     ]
                 }
             ]
@@ -49,6 +49,16 @@
                     "badgeText" : "ROUND 25",
                     "messages" : [
                         "PHI Recieves: OrbitalSZN,  icarius | SD Recieves: C_apital, 4kreggom, Aurapherious"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#006341",
+                    "badgeText" : "ROUND 26",
+                    "messages" : [
+                        "SD Recieves: comebackben | ARI Recieves: texanplayer24"
                     ]
                 }
             ]
@@ -167,6 +177,16 @@
                         "Signing: Kageura"
                     ]
                 }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#526FFF",
+                    "badgeText" : "MIN",
+                    "messages" : [
+                        "Signing: ImPoppinPurks"
+                    ]
+                }
             ]
         ]
     },
@@ -185,14 +205,50 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Stars.png",
-                        "name" : "Stars",
-                        "rank" : "14"
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
+                        "rank" : "9"
                     },
                     "team2" : {
-                        "logo" : "images/Ravens.png",
-                        "name" : "Ravens",
-                        "rank" : "1"
+                        "logo" : "images/Rebels.png",
+                        "name" : "Rebels",
+                        "rank" : "12"
+                    },
+                    "messages" : [
+                        "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Firebirds.png",
+                        "name" : "Firebirds",
+                        "rank" : "6"
+                    },
+                    "team2" : {
+                        "logo" : "images/Reapers.png",
+                        "name" : "Reapers",
+                        "rank" : "5"
+                    },
+                    "messages" : [
+                        "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/HoneyBadgers.png",
+                        "name" : "Honey Badgers",
+                        "rank" : "10"
+                    },
+                    "team2" : {
+                        "logo" : "images/Turbos.png",
+                        "name" : "Turbos",
+                        "rank" : "8"
                     },
                     "messages" : [
                         "8 ET"
@@ -208,45 +264,9 @@
                         "rank" : "2"
                     },
                     "team2" : {
-                        "logo" : "images/Fighters.png",
-                        "name" : "Fighters",
-                        "rank" : "4"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
                         "logo" : "images/Flamingos.png",
                         "name" : "Flamingos",
                         "rank" : "3"
-                    },
-                    "team2" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "9"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Tropics.png",
-                        "name" : "Tropics",
-                        "rank" : "8"
-                    },
-                    "team2" : {
-                        "logo" : "images/Reapers.png",
-                        "name" : "Reapers",
-                        "rank" : "5"
                     },
                     "messages" : [
                         "9 ET"
@@ -257,14 +277,32 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Rebels.png",
-                        "name" : "Rebels",
-                        "rank" : "12"
-                    },
-                    "team2" : {
                         "logo" : "images/Blues.png",
                         "name" : "Blues",
                         "rank" : "11"
+                    },
+                    "team2" : {
+                        "logo" : "images/Ravens.png",
+                        "name" : "Ravens",
+                        "rank" : "1"
+                    },
+                    "messages" : [
+                        "9 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Tropics.png",
+                        "name" : "Tropics",
+                        "rank" : "7"
+                    },
+                    "team2" : {
+                        "logo" : "images/Fighters.png",
+                        "name" : "Fighters",
+                        "rank" : "4"
                     },
                     "messages" : [
                         "9 ET"
@@ -280,27 +318,9 @@
                         "rank" : "13"
                     },
                     "team2" : {
-                        "logo" : "images/Firebirds.png",
-                        "name" : "Firebirds",
-                        "rank" : "6"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Turbos.png",
-                        "name" : "Turbos",
-                        "rank" : "7"
-                    },
-                    "team2" : {
-                        "logo" : "images/HoneyBadgers.png",
-                        "name" : "Honey Badgers",
-                        "rank" : "10"
+                        "logo" : "images/Stars.png",
+                        "name" : "Stars",
+                        "rank" : "14"
                     },
                     "messages" : [
                         "9 ET"
