@@ -88,6 +88,17 @@
                         "receives: HOMIXIDEJAKOBE"
                     ]
                 }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#227C7D",
+                    "badgeText" : "ARI",
+                    "messages" : [
+                        "KingXVVII removed from roster",
+                        "receives: Fwchrisfrr"
+                    ]
+                }
             ]
         ]
     },
