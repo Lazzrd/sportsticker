@@ -259,14 +259,14 @@
                     "type" : "scores",
                     "isFinal" : true,
                     "team1" : {
-                        "rank" : 9,
+                        "rank" : "9",
                         "name" : "Honey Badgers",
-                        "points" : 4
+                        "points" : "4"
                     },
                     "team2" : {
-                        "rank" : 7,
+                        "rank" : "7",
                         "name" : "Firebirds",
-                        "points" : 6
+                        "points" : "6"
                     },
                     "messages" : [
                         "F/9"
@@ -276,14 +276,14 @@
                     "type" : "scores",
                     "isFinal" : true,
                     "team1" : {
-                        "rank" : 5,
+                        "rank" : "5",
                         "name" : "Fighters",
-                        "points" : 6
+                        "points" : "6"
                     },
                     "team2" : {
-                        "rank" : 4,
+                        "rank" : "4",
                         "name" : "Reapers",
-                        "points" : 4
+                        "points" : "4"
                     },
                     "messages" : [
                         "F/9"
