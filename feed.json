@@ -288,6 +288,40 @@
                     "messages" : [
                         "F/9"
                     ]
+                },
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "11",
+                        "name" : "Rebels",
+                        "points" : "7"
+                    },
+                    "team2" : {
+                        "rank" : "8",
+                        "name" : "TurBos",
+                        "points" : "9"
+                    },
+                    "messages" : [
+                        "F/10"
+                    ]
+                },
+                {
+                    "type" : "scores-abbr",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "11",
+                        "abbr" : "ATL",
+                        "points" : "7"
+                    },
+                    "team2" : {
+                        "rank" : "8",
+                        "abbr" : "DET",
+                        "points" : "9"
+                    },
+                    "messages" : [
+                        "POSSIBLYDOTY 2-run HR to tie the game, and 2-run walkoff HR"
+                    ]
                 }
             ]
         ]
