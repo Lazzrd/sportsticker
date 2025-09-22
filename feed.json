@@ -22,43 +22,7 @@
                     "badgeColor" : "#006341",
                     "badgeText" : "Standings",
                     "messages" : [
-                        "1. CHR | 2. MIN 0GB | 3. FLA 2GB | 4. NHF 3GB | 5. LAR 3GB | 6. ARI 3GB | 7. SD 4GB | 8. DET 4GB | 9. PHI 6GB | 10. MIL 6GB | 11. NSH 7GB | 12. ATL 8GB | 13. WCH 9GB | 14. ANA 9GB"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Trades",
-        "items" : [
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#006341",
-                    "badgeText" : "ROUND 24",
-                    "messages" : [
-                        "NSH Recieves: Aervial, cremekid0528 | MIL Recieves: aceelord",
-                        "WCH Recieves: Yourhometown, ajpenn | FLA Recieves: bignate0609"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#006341",
-                    "badgeText" : "ROUND 25",
-                    "messages" : [
-                        "PHI Recieves: OrbitalSZN,  icarius | SD Recieves: C_apital, 4kreggom, Aurapherious"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#006341",
-                    "badgeText" : "ROUND 26",
-                    "messages" : [
-                        "SD Recieves: comebackben | ARI Recieves: texanplayer24"
+                        "1. CHR | 2. MIN 1GB | 3. FLA 2GB | 4. LAR 3GB | 5. NHF 4GB | 6. SD 4GB | 7. ARI 4GB | 8. DET 5GB | 9. MIL 6GB | 10. PHI 6GB | 11. ATL 8GB | 12. NSH 9GB | 13. ANA 12GB | 14. WCH 12GB"
                     ]
                 }
             ]
@@ -70,33 +34,22 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#FB447F",
-                    "badgeText" : "SD",
-                    "messages" : [
-                        "datfella, damianHacker101 removed from roster",
-                        "receives: BOSQUETBOS, GoldenInsight"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#526FFF",
-                    "badgeText" : "MIN",
-                    "messages" : [
-                        "sk17ty removed from roster",
-                        "receives: HOMIXIDEJAKOBE"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
                     "badgeColor" : "#227C7D",
                     "badgeText" : "ARI",
                     "messages" : [
                         "KingXVVII removed from roster",
                         "receives: Fwchrisfrr"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#CCA145",
+                    "badgeText" : "MIL",
+                    "messages" : [
+                        "OhioSigmaZxay removed from roster",
+                        "receives: LightestOfDay"
                     ]
                 }
             ]
@@ -111,17 +64,8 @@
                     "badgeColor" : "#8C271E",
                     "badgeText" : "ATL",
                     "messages" : [
-                        "Signing: valkcoa, OzzieAcunaJR, dolante758, Kirbyfootball3, Ja_MK"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#1C2331",
-                    "badgeText" : "ANA",
-                    "messages" : [
-                        "Signing: ighturtled"
+                        "Signing: cdvvd23, umpireboy",
+                        "Release: yoshis429"
                     ]
                 }
             ],
@@ -131,18 +75,8 @@
                     "badgeColor" : "#B23C38",
                     "badgeText" : "PHI",
                     "messages" : [
-                        "Signing: himmyburger12"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#005A99",
-                    "badgeText" : "NHF",
-                    "messages" : [
-                        "Signing: v_faith",
-                        "Release: dblplaysnhomeruns"
+                        "Signing: Dx22_z, Dreammwxrld",
+                        "AMs: Illusions, OrbitalSZN"
                     ]
                 }
             ],
@@ -152,30 +86,7 @@
                     "badgeColor" : "#1E1E1E",
                     "badgeText" : "LAR",
                     "messages" : [
-                        "Release: Flintstone_s, Imaserbianlol, dx22_x"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#007FFF",
-                    "badgeText" : "DET",
-                    "messages" : [
-                        "Signing: ZMAN5513, Flintstone_s, Flamjngg,",
-                        "Release: 3nauss"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#FB447F",
-                    "badgeText" : "SD",
-                    "messages" : [
-                        "Signing: XxYouBoyAdrianXx",
-                        "Release: kennypar_X",
-                        "Assistant Manager: C_apital, 0utspend"
+                        "Signing: dextergrifrvb"
                     ]
                 }
             ],
@@ -185,7 +96,7 @@
                     "badgeColor" : "#1C407A",
                     "badgeText" : "NSH",
                     "messages" : [
-                        "Signing: Kageura"
+                        "Release: dextergrifrvb"
                     ]
                 }
             ],
@@ -195,7 +106,7 @@
                     "badgeColor" : "#526FFF",
                     "badgeText" : "MIN",
                     "messages" : [
-                        "Signing: ImPoppinPurks"
+                        "Signing: ImPoppinPurks, 4Zipperz"
                     ]
                 }
             ]
@@ -216,13 +127,31 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "9"
+                        "logo" : "images/Fighters.png",
+                        "name" : "Fighters",
+                        "rank" : "5"
                     },
                     "team2" : {
-                        "logo" : "images/Rebels.png",
-                        "name" : "Rebels",
+                        "logo" : "images/Reapers.png",
+                        "name" : "Reapers",
+                        "rank" : "4"
+                    },
+                    "messages" : [
+                        "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Tropics.png",
+                        "name" : "Tropics",
+                        "rank" : "6"
+                    },
+                    "team2" : {
+                        "logo" : "images/Blues.png",
+                        "name" : "Blues",
                         "rank" : "12"
                     },
                     "messages" : [
@@ -234,27 +163,9 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Firebirds.png",
-                        "name" : "Firebirds",
-                        "rank" : "6"
-                    },
-                    "team2" : {
-                        "logo" : "images/Reapers.png",
-                        "name" : "Reapers",
-                        "rank" : "5"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/HoneyBadgers.png",
-                        "name" : "Honey Badgers",
-                        "rank" : "10"
+                        "logo" : "images/Rebels.png",
+                        "name" : "Rebels",
+                        "rank" : "11"
                     },
                     "team2" : {
                         "logo" : "images/Turbos.png",
@@ -270,53 +181,17 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Blizzards.png",
-                        "name" : "Blizzards",
-                        "rank" : "2"
+                        "logo" : "images/HoneyBadgers.png",
+                        "name" : "Honey Badgers",
+                        "rank" : "9"
                     },
                     "team2" : {
-                        "logo" : "images/Flamingos.png",
-                        "name" : "Flamingos",
-                        "rank" : "3"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Blues.png",
-                        "name" : "Blues",
-                        "rank" : "11"
-                    },
-                    "team2" : {
-                        "logo" : "images/Ravens.png",
-                        "name" : "Ravens",
-                        "rank" : "1"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Tropics.png",
-                        "name" : "Tropics",
+                        "logo" : "images/Firebirds.png",
+                        "name" : "Firebirds",
                         "rank" : "7"
                     },
-                    "team2" : {
-                        "logo" : "images/Fighters.png",
-                        "name" : "Fighters",
-                        "rank" : "4"
-                    },
                     "messages" : [
-                        "9 ET"
+                        "8 ET"
                     ]
                 }
             ],
@@ -326,12 +201,48 @@
                     "team1" : {
                         "logo" : "images/Wizards.png",
                         "name" : "Wizards",
-                        "rank" : "13"
+                        "rank" : "14"
+                    },
+                    "team2" : {
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "2"
+                    },
+                    "messages" : [
+                        "9 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Ravens.png",
+                        "name" : "Ravens",
+                        "rank" : "1"
+                    },
+                    "team2" : {
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
+                        "rank" : "10"
+                    },
+                    "messages" : [
+                        "9 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Flamingos.png",
+                        "name" : "Flamingos",
+                        "rank" : "3"
                     },
                     "team2" : {
                         "logo" : "images/Stars.png",
                         "name" : "Stars",
-                        "rank" : "14"
+                        "rank" : "13"
                     },
                     "messages" : [
                         "9 ET"
