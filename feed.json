@@ -14,7 +14,7 @@
         ]
     },
     {
-        "topic" : "Standings",
+        "topic" : "Game 40",
         "items" : [
             [
                 {
@@ -22,34 +22,8 @@
                     "badgeColor" : "#006341",
                     "badgeText" : "Standings",
                     "messages" : [
-                        "1. CHR | 2. MIN 1GB | 3. FLA 2GB | 4. LAR 3GB | 5. NHF 4GB | 6. SD 4GB | 7. ARI 4GB | 8. DET 5GB | 9. MIL 6GB | 10. PHI 6GB | 11. ATL 8GB | 12. NSH 9GB | 13. ANA 12GB | 14. WCH 12GB"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Waivers",
-        "items" : [
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#227C7D",
-                    "badgeText" : "ARI",
-                    "messages" : [
-                        "KingXVVII removed from roster",
-                        "receives: Fwchrisfrr"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#CCA145",
-                    "badgeText" : "MIL",
-                    "messages" : [
-                        "OhioSigmaZxay removed from roster",
-                        "receives: LightestOfDay"
+                        "Chicago takes on Philadelphia to decide the 3rd seed in the Season 26 Playoffs",
+                        "The Los Angeles Reapers take on  the San Diego Tropics to decide the 5th seed in the Season 26 Playoffs, live on FTN"
                     ]
                 }
             ]
@@ -62,10 +36,25 @@
                 {
                     "type" : "full-with-badge",
                     "badgeColor" : "#8C271E",
+                    "badgeText" : "BoD Trade",
+                    "messages" : [
+                        "FLA Recieves: icariu_s",
+                        "NSH Recieves: j6ved (unable to play"
+                    ]
+                }
+            ]
+        ]
+    }
+    {
+        "topic" : "Signings",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#8C271E",
                     "badgeText" : "ATL",
                     "messages" : [
-                        "Signing: cdvvd23, umpireboy",
-                        "Release: yoshis429"
+                        "Signing: MarcoTheLegion"
                     ]
                 }
             ],
@@ -75,8 +64,7 @@
                     "badgeColor" : "#B23C38",
                     "badgeText" : "PHI",
                     "messages" : [
-                        "Signing: Dx22_z, Dreammwxrld",
-                        "AMs: Illusions, OrbitalSZN"
+                        "Signing: drxmster"
                     ]
                 }
             ],
@@ -86,7 +74,7 @@
                     "badgeColor" : "#1E1E1E",
                     "badgeText" : "LAR",
                     "messages" : [
-                        "Signing: dextergrifrvb"
+                        "Signing: starwarfare545"
                     ]
                 }
             ],
@@ -96,7 +84,7 @@
                     "badgeColor" : "#1C407A",
                     "badgeText" : "NSH",
                     "messages" : [
-                        "Release: dextergrifrvb"
+                        "Release: logicgg, drxmster"
                     ]
                 }
             ],
@@ -106,7 +94,7 @@
                     "badgeColor" : "#526FFF",
                     "badgeText" : "MIN",
                     "messages" : [
-                        "Signing: ImPoppinPurks, 4Zipperz"
+                        "Signing: bongolmao"
                     ]
                 }
             ]
@@ -127,13 +115,13 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Fighters.png",
-                        "name" : "Fighters",
+                        "logo" : "images/Ravens.png",
+                        "name" : "Ravens",
                         "rank" : "5"
                     },
                     "team2" : {
-                        "logo" : "images/Reapers.png",
-                        "name" : "Reapers",
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
                         "rank" : "4"
                     },
                     "messages" : [
@@ -145,182 +133,18 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Tropics.png",
-                        "name" : "Tropics",
+                        "logo" : "images/Reapers.png",
+                        "name" : "Reapers",
                         "rank" : "6"
                     },
                     "team2" : {
-                        "logo" : "images/Blues.png",
-                        "name" : "Blues",
-                        "rank" : "12"
+                        "logo" : "images/Tropics.png",
+                        "name" : "Tropics",
+                        "rank" : "5"
                     },
                     "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Rebels.png",
-                        "name" : "Rebels",
-                        "rank" : "11"
-                    },
-                    "team2" : {
-                        "logo" : "images/Turbos.png",
-                        "name" : "Turbos",
-                        "rank" : "8"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/HoneyBadgers.png",
-                        "name" : "Honey Badgers",
-                        "rank" : "9"
-                    },
-                    "team2" : {
-                        "logo" : "images/Firebirds.png",
-                        "name" : "Firebirds",
-                        "rank" : "7"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Wizards.png",
-                        "name" : "Wizards",
-                        "rank" : "14"
-                    },
-                    "team2" : {
-                        "logo" : "images/Blizzards.png",
-                        "name" : "Blizzards",
-                        "rank" : "2"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Ravens.png",
-                        "name" : "Ravens",
-                        "rank" : "1"
-                    },
-                    "team2" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "10"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Flamingos.png",
-                        "name" : "Flamingos",
-                        "rank" : "3"
-                    },
-                    "team2" : {
-                        "logo" : "images/Stars.png",
-                        "name" : "Stars",
-                        "rank" : "13"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Scores",
-        "items" : [
-            [
-                {
-                    "type" : "scores",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "9",
-                        "name" : "Badgers",
-                        "points" : "4"
-                    },
-                    "team2" : {
-                        "rank" : "7",
-                        "name" : "Firebirds",
-                        "points" : "6"
-                    },
-                    "messages" : [
-                        "F/9"
-                    ]
-                },
-                {
-                    "type" : "scores",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "5",
-                        "name" : "Fighters",
-                        "points" : "6"
-                    },
-                    "team2" : {
-                        "rank" : "4",
-                        "name" : "Reapers",
-                        "points" : "4"
-                    },
-                    "messages" : [
-                        "F/9"
-                    ]
-                },
-                {
-                    "type" : "scores",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "11",
-                        "name" : "Rebels",
-                        "points" : "7"
-                    },
-                    "team2" : {
-                        "rank" : "8",
-                        "name" : "TurBos",
-                        "points" : "9"
-                    },
-                    "messages" : [
-                        "F/10"
-                    ]
-                },
-                {
-                    "type" : "scores-abbr",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "11",
-                        "abbr" : "ATL",
-                        "points" : "7"
-                    },
-                    "team2" : {
-                        "rank" : "8",
-                        "abbr" : "DET",
-                        "points" : "9"
-                    },
-                    "messages" : [
-                        "POSSIBLYDOTY 2-run HR to tie the game, and 2-run walkoff HR"
+                        "9 ET",
+                        "Live on FTN"
                     ]
                 }
             ]
