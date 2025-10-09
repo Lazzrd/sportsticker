@@ -117,7 +117,7 @@
                     "team1" : {
                         "logo" : "images/Ravens.png",
                         "name" : "Ravens",
-                        "rank" : "5"
+                        "rank" : "3"
                     },
                     "team2" : {
                         "logo" : "images/Surge.png",
@@ -145,6 +145,30 @@
                     "messages" : [
                         "9 ET",
                         "Live on FTN"
+                    ]
+                }
+            ]
+        ]
+    }
+    {
+        "topic" : "Scores",
+        "items" : [
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : false,
+                    "team1" : {
+                        "rank" : 3,
+                        "name" : "Ravens",
+                        "points" : 7
+                    },
+                    "team2" : {
+                        "rank" : 4,
+                        "name" : "Surge",
+                        "points" : 3
+                    },
+                    "messages" : [
+                        "Tiebreaker for Seed 3"
                     ]
                 }
             ]
