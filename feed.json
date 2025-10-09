@@ -30,7 +30,7 @@
         ]
     },
     {
-        "topic" : "Signings",
+        "topic" : "Trades",
         "items" : [
             [
                 {
@@ -44,7 +44,7 @@
                 }
             ]
         ]
-    }
+    },
     {
         "topic" : "Signings",
         "items" : [
