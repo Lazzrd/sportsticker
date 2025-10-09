@@ -156,7 +156,7 @@
             [
                 {
                     "type" : "scores",
-                    "isFinal" : false,
+                    "isFinal" : true,
                     "team1" : {
                         "rank" : 3,
                         "name" : "Ravens",
@@ -168,7 +168,7 @@
                         "points" : 3
                     },
                     "messages" : [
-                        "Tiebreaker for Seed 3"
+                        "FFT/5"
                     ]
                 }
             ]
