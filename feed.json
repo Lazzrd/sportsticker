@@ -35,7 +35,7 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#8C271E",
+                    "badgeColor" : "#006341",
                     "badgeText" : "BoD Trade",
                     "messages" : [
                         "FLA Recieves: icariu_s",
