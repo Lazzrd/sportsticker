@@ -14,16 +14,83 @@
         ]
     },
     {
-        "topic" : "Game 40",
+        "topic" : "Pick-Ems",
         "items" : [
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#006341",
-                    "badgeText" : "Scenarios",
+                    "badgeColor" : "#526FFF",
+                    "badgeText" : "MIN",
                     "messages" : [
-                        "Chicago takes on Philadelphia to decide the 3rd seed in the Season 26 Playoffs",
-                        "The Los Angeles Reapers take on  the San Diego Tropics to decide the 5th seed in the Season 26 Playoffs, live on FTN"
+                        "CowardlyArnold 7.5 Strikeouts",
+                        "DionBBL 1.5 Homeruns",
+                        "yamoftheyeg 1.5 RBIs",
+                        "xjrdnz 2.5 RBIs",
+                        "amaazen 0.5 Homeruns",
+                        "dragorobloxs 1.5 XBH",
+                        "jinnwoods 1.5 Hits",
+                        "M_xrtezz 0.5 Homeruns",
+                        "HOMIXIDEMATT 1.5 RBIs",
+                        "kuyacyth 0.5 XBH"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#CDA042",
+                    "badgeText" : "MIL",
+                    "messages" : [
+                        "At1s47 6.5 Strikeouts",
+                        "aceelordd 0.5 Homeruns",
+                        "sc6rygary 2.5 Hits",
+                        "velunaris 1.5 Hits",
+                        "CactusPro101 0.5 XBH",
+                        "BigDoggity 0.5 Hits",
+                        "niuvery88 1.5 RBIs",
+                        "M_xrtezz 0.5 Homeruns",
+                        "RandyMacilheny 0.5 RBIs",
+                        "velpuux 1.5 Batting Strikeouts",
+                        "rozioborq04 0.5 RBIs",
+                        "BONUS: sc6rygary and rozioborq04 get a hit in the same inning"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#526FFF",
+                    "badgeText" : "LAR",
+                    "messages" : [
+                        "KennyNguyen99 7.5 Strikeouts",
+                        "Tbucs19 0.5 Homeruns",
+                        "shakestx 2.5 Hits",
+                        "NoiselessCaymen 1.5 XBH",
+                        "Dreadlord4040 0.5 RBIs",
+                        "ericmye 1.5 Insane Right Field Plays",
+                        "Devv2much 0.5 Hits",
+                        "Seccaro 1.5 RBIs",
+                        "3mzWest 1.5 Hits",
+                        "vice1y 0.5 Homeruns",
+                        "BONUS: A grand slam at any point in the game"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#753232",
+                    "badgeText" : "PHI",
+                    "messages" : [
+                        "IllusionsBonaparte 8.5 Strikeouts",
+                        "OrbitalSZN 0.5 Homeruns",
+                        "ItzzzzKrabz 1.5 RBIs",
+                        "BreadIs_G00D 1.5 HRs",
+                        "Xo_K3vin 1.5 Hits",
+                        "scriptsxz 0.5 Homeruns",
+                        "D_cnn 2.5 RBIs",
+                        "Dx22_z 0.5 Clips with Phonk in its",
+                        "BONUS: A grand slam at any point in the game"
                     ]
                 }
             ]
@@ -38,8 +105,8 @@
                     "badgeColor" : "#006341",
                     "badgeText" : "BoD Trade",
                     "messages" : [
-                        "FLA Recieves: icariu_s",
-                        "NSH Recieves: j6ved (unable to play"
+                        "ATL Recieves: Baumz",
+                        "NHF Recieves: x5owen, LavvenderGooms"
                     ]
                 }
             ]
@@ -51,50 +118,10 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#8C271E",
-                    "badgeText" : "ATL",
+                    "badgeColor" : "#662D91",
+                    "badgeText" : "CHR",
                     "messages" : [
-                        "Signing: MarcoTheLegion"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#B23C38",
-                    "badgeText" : "PHI",
-                    "messages" : [
-                        "Signing: drxmster"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#1E1E1E",
-                    "badgeText" : "LAR",
-                    "messages" : [
-                        "Signing: starwarfare545"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#1C407A",
-                    "badgeText" : "NSH",
-                    "messages" : [
-                        "Release: logicgg, drxmster"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#526FFF",
-                    "badgeText" : "MIN",
-                    "messages" : [
-                        "Signing: bongolmao"
+                        "Signing: d_egromm"
                     ]
                 }
             ]
@@ -115,14 +142,14 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Ravens.png",
-                        "name" : "Ravens",
-                        "rank" : "3"
+                        "logo" : "images/HoneyBadgers.png",
+                        "name" : "Honey Badgers",
+                        "rank" : "8"
                     },
                     "team2" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "4"
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "1"
                     },
                     "messages" : [
                         "8 ET"
@@ -135,40 +162,52 @@
                     "team1" : {
                         "logo" : "images/Reapers.png",
                         "name" : "Reapers",
-                        "rank" : "6"
-                    },
-                    "team2" : {
-                        "logo" : "images/Tropics.png",
-                        "name" : "Tropics",
                         "rank" : "5"
                     },
+                    "team2" : {
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
+                        "rank" : "4"
+                    },
                     "messages" : [
-                        "9 ET",
+                        "8 ET",
                         "Live on FTN"
                     ]
                 }
-            ]
-        ]
-    },
-    {
-        "topic" : "Scores",
-        "items" : [
+            ],
             [
                 {
-                    "type" : "scores",
-                    "isFinal" : "true",
+                    "type" : "matchup",
                     "team1" : {
-                        "rank" : "3",
-                        "name" : "Ravens",
-                        "points" : "7"
+                        "logo" : "images/Turbos.png",
+                        "name" : "Turbos",
+                        "rank" : "7"
                     },
                     "team2" : {
-                        "rank" : "4",
-                        "name" : "Surge",
-                        "points" : "3"
+                        "logo" : "images/Flamingos.png",
+                        "name" : "Flamingos",
+                        "rank" : "2"
                     },
                     "messages" : [
-                        "FFT/5"
+                        "9 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Tropics.png",
+                        "name" : "Tropics",
+                        "rank" : "6"
+                    },
+                    "team2" : {
+                        "logo" : "images/Ravens.png",
+                        "name" : "Ravens",
+                        "rank" : "3"
+                    },
+                    "messages" : [
+                        "9 ET"
                     ]
                 }
             ]
