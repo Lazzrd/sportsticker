@@ -59,7 +59,7 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#526FFF",
+                    "badgeColor" : "#1E1E1E",
                     "badgeText" : "LAR",
                     "messages" : [
                         "KennyNguyen99 7.5 Strikeouts",
@@ -93,7 +93,81 @@
                         "BONUS: A grand slam at any point in the game"
                     ]
                 }
-            ]
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#007FFF",
+                    "badgeText" : "DET",
+                    "messages" : [
+                        "doogypirate 5.5 Strikeouts",
+                        "possiblydoty 0.5 Homeruns",
+                        "Mason1nFire 1.5 RBIs",
+                        "FreemanFanatic2026 1.5 Hits",
+                        "madnightdazergotban 0.5 XBH",
+                        "cam8848 1.5 Hits",
+                        "WorldNutPhoto 1.5 RBIs",
+                        "Th3Mixer 1.5 Hits",
+                        "fr_eeman 0.5 RBIs"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#CE0058",
+                    "badgeText" : "FLA",
+                    "messages" : [
+                        "nickktoons  9.5 Strikeouts",
+                        "ItsEGT 0.5 Homeruns",
+                        "underscoreteo 3.5 Hits",
+                        "ZackLaFlame 0.5 XBH",
+                        "baegeeo 1.5 RBIs",
+                        "Ajisabeastlol 0.5 Homeruns",
+                        "WhammyBonaparte 2.5 Hits",
+                        "bignate0609 0.5 BBs",
+                        "icariu_s 0.5 Homeruns",
+                        "BONUS: dpressingapple shows to HCBB 9V9 Today"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#FE427E",
+                    "badgeText" : "SD",
+                    "messages" : [
+                        "Aurapherious 6.5 Strikeouts",
+                        "NotIcySnow 0.5 Homeruns",
+                        "bvllinger 2.5 RBIs",
+                        "C_apital 2.5 Hits",
+                        "4kreggom 1.5 Hits",
+                        "cuvrtime 0.5 Homeruns",
+                        "pcb_o7 2.5 Hits",
+                        "NepqeN 1.5 RBIs",
+                        "BOSQUETBOS 0.5 RBIs",
+                        "BONUS: infectedvein shows today"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#662D91",
+                    "badgeText" : "CHR",
+                    "messages" : [
+                        "B_3RNIE 7.5 Strikeouts",
+                        "boisegrey 0.5 Homeruns",
+                        "Aervial 1.5 XBH",
+                        "xenlozz 0.5 BBs",
+                        "2_wyatt 0.5 RBIs",
+                        "AviatorAce6 0.5 Hits",
+                        "Isy_nc 1.5 Hits",
+                        "Pikachu7345 0.5 XBH",
+                        "Bonus: dpressingapple shows to HCBB 9V9 Today"
+                    ]
+                }
+            ],
         ]
     },
     {
