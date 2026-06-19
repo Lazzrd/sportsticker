@@ -99,25 +99,6 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Ospreys.png",
-                        "name" : "Ospreys",
-                        "rank" : "5"
-                    },
-                    "team2" : {
-                        "logo" : "images/Blizzards.png",
-                        "name" : "Blizzards",
-                        "rank" : "7"
-                    },
-                    "messages" : [
-                        "8 ET",
-                        "Live on FTN"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
                         "logo" : "images/DoosanBears.png",
                         "name" : "Bears",
                         "rank" : "11"
@@ -184,6 +165,25 @@
                     "messages" : [
                         "9 ET",
                         "Live on SESN"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Ospreys.png",
+                        "name" : "Ospreys",
+                        "rank" : "5"
+                    },
+                    "team2" : {
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "7"
+                    },
+                    "messages" : [
+                        "8 ET",
+                        "Live on FTN"
                     ]
                 }
             ]
