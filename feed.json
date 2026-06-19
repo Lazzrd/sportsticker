@@ -14,172 +14,15 @@
         ]
     },
     {
-        "topic" : "Pick-Ems",
-        "items" : [
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#526FFF",
-                    "badgeText" : "MIN",
-                    "messages" : [
-                        "CowardlyArnold 7.5 Strikeouts",
-                        "DionBBL 1.5 Homeruns",
-                        "yamoftheyeg 1.5 RBIs",
-                        "xjrdnz 2.5 RBIs",
-                        "amaazen 0.5 Homeruns",
-                        "dragorobloxs 1.5 XBH",
-                        "jinnwoods 1.5 Hits",
-                        "M_xrtezz 0.5 Homeruns",
-                        "HOMIXIDEMATT 1.5 RBIs",
-                        "kuyacyth 0.5 XBH"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#CDA042",
-                    "badgeText" : "MIL",
-                    "messages" : [
-                        "At1s47 6.5 Strikeouts",
-                        "aceelordd 0.5 Homeruns",
-                        "sc6rygary 2.5 Hits",
-                        "velunaris 1.5 Hits",
-                        "CactusPro101 0.5 XBH",
-                        "BigDoggity 0.5 Hits",
-                        "niuvery88 1.5 RBIs",
-                        "M_xrtezz 0.5 Homeruns",
-                        "RandyMacilheny 0.5 RBIs",
-                        "velpuux 1.5 Batting Strikeouts",
-                        "rozioborq04 0.5 RBIs",
-                        "BONUS: sc6rygary and rozioborq04 get a hit in the same inning"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#1E1E1E",
-                    "badgeText" : "LAR",
-                    "messages" : [
-                        "KennyNguyen99 7.5 Strikeouts",
-                        "Tbucs19 0.5 Homeruns",
-                        "shakestx 2.5 Hits",
-                        "NoiselessCaymen 1.5 XBH",
-                        "Dreadlord4040 0.5 RBIs",
-                        "ericmye 1.5 Insane Right Field Plays",
-                        "Devv2much 0.5 Hits",
-                        "Seccaro 1.5 RBIs",
-                        "3mzWest 1.5 Hits",
-                        "vice1y 0.5 Homeruns",
-                        "BONUS: A grand slam at any point in the game"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#753232",
-                    "badgeText" : "PHI",
-                    "messages" : [
-                        "IllusionsBonaparte 8.5 Strikeouts",
-                        "OrbitalSZN 0.5 Homeruns",
-                        "ItzzzzKrabz 1.5 RBIs",
-                        "BreadIs_G00D 1.5 HRs",
-                        "Xo_K3vin 1.5 Hits",
-                        "scriptsxz 0.5 Homeruns",
-                        "D_cnn 2.5 RBIs",
-                        "Dx22_z 0.5 Clips with Phonk in its",
-                        "BONUS: A grand slam at any point in the game"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#007FFF",
-                    "badgeText" : "DET",
-                    "messages" : [
-                        "doogypirate 5.5 Strikeouts",
-                        "possiblydoty 0.5 Homeruns",
-                        "Mason1nFire 1.5 RBIs",
-                        "FreemanFanatic2026 1.5 Hits",
-                        "madnightdazergotban 0.5 XBH",
-                        "cam8848 1.5 Hits",
-                        "WorldNutPhoto 1.5 RBIs",
-                        "Th3Mixer 1.5 Hits",
-                        "fr_eeman 0.5 RBIs"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#CE0058",
-                    "badgeText" : "FLA",
-                    "messages" : [
-                        "nickktoons  9.5 Strikeouts",
-                        "ItsEGT 0.5 Homeruns",
-                        "underscoreteo 3.5 Hits",
-                        "ZackLaFlame 0.5 XBH",
-                        "baegeeo 1.5 RBIs",
-                        "Ajisabeastlol 0.5 Homeruns",
-                        "WhammyBonaparte 2.5 Hits",
-                        "bignate0609 0.5 BBs",
-                        "icariu_s 0.5 Homeruns",
-                        "BONUS: dpressingapple shows to HCBB 9V9 Today"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#FE427E",
-                    "badgeText" : "SD",
-                    "messages" : [
-                        "Aurapherious 6.5 Strikeouts",
-                        "NotIcySnow 0.5 Homeruns",
-                        "bvllinger 2.5 RBIs",
-                        "C_apital 2.5 Hits",
-                        "4kreggom 1.5 Hits",
-                        "cuvrtime 0.5 Homeruns",
-                        "pcb_o7 2.5 Hits",
-                        "NepqeN 1.5 RBIs",
-                        "BOSQUETBOS 0.5 RBIs",
-                        "BONUS: infectedvein shows today"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#662D91",
-                    "badgeText" : "CHR",
-                    "messages" : [
-                        "B_3RNIE 7.5 Strikeouts",
-                        "boisegrey 0.5 Homeruns",
-                        "Aervial 1.5 XBH",
-                        "xenlozz 0.5 BBs",
-                        "2_wyatt 0.5 RBIs",
-                        "AviatorAce6 0.5 Hits",
-                        "Isy_nc 1.5 Hits",
-                        "Pikachu7345 0.5 XBH"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Trades",
+        "topic" : "Standings",
         "items" : [
             [
                 {
                     "type" : "full-with-badge",
                     "badgeColor" : "#006341",
-                    "badgeText" : "BoD Trade",
+                    "badgeText" : "Standings",
                     "messages" : [
-                        "ATL Recieves: Baumz",
-                        "NHF Recieves: x5owen, LavvenderGooms"
+                        "1. CHB | 2. OCF 0GB | 3. CHR 0GB | 4. ATL 1GB | 5. BAL 1GB | 6. SF 1GB | 7. MIN 1GB | 8. NHF 1GB | 9. PHI 1GB | 10. HI 2GB | 11. DSN 2GB | 12. ARI 2GB"
                     ]
                 }
             ]
@@ -191,10 +34,33 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#662D91",
-                    "badgeText" : "CHR",
+                    "badgeColor" : "#191A2D",
+                    "badgeText" : "DSN",
                     "messages" : [
-                        "Signing: d_egromm"
+                        "Release: ukoXXVII"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#526FFF",
+                    "badgeText" : "MIN",
+                    "messages" : [
+                        "Sign: opulen_ce",
+                        "Sign: Nerdyb0iXtraComedy"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#8F2820",
+                    "badgeText" : "ATL",
+                    "messages" : [
+                        "Sign: evracore",
+                        "Sign: EEGodzila",
+                        "Sign: 1000kofnsl"
                     ]
                 }
             ]
@@ -215,14 +81,14 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/HoneyBadgers.png",
-                        "name" : "Honey Badgers",
-                        "rank" : "8"
+                        "logo" : "images/Breeze.png",
+                        "name" : "Breeze",
+                        "rank" : "1"
                     },
                     "team2" : {
-                        "logo" : "images/Blizzards.png",
-                        "name" : "Blizzards",
-                        "rank" : "1"
+                        "logo" : "images/Fighters.png",
+                        "name" : "Fighters",
+                        "rank" : "8"
                     },
                     "messages" : [
                         "8 ET"
@@ -233,14 +99,14 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Reapers.png",
-                        "name" : "Reapers",
+                        "logo" : "images/Ospreys.png",
+                        "name" : "Ospreys",
                         "rank" : "5"
                     },
                     "team2" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "4"
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "7"
                     },
                     "messages" : [
                         "8 ET",
@@ -252,13 +118,49 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Turbos.png",
-                        "name" : "Turbos",
-                        "rank" : "7"
+                        "logo" : "images/DoosanBears.png",
+                        "name" : "Bears",
+                        "rank" : "11"
                     },
                     "team2" : {
-                        "logo" : "images/Flamingos.png",
-                        "name" : "Flamingos",
+                        "logo" : "images/Firebirds.png",
+                        "name" : "Firebirds",
+                        "rank" : "12"
+                    },
+                    "messages" : [
+                        "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Jailbirds.png",
+                        "name" : "Jailbirds",
+                        "rank" : "6"
+                    },
+                    "team2" : {
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
+                        "rank" : "9"
+                    },
+                    "messages" : [
+                        "9 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Heat.png",
+                        "name" : "Heat",
+                        "rank" : "10"
+                    },
+                    "team2" : {
+                        "logo" : "images/Orbit.png",
+                        "name" : "Orbit",
                         "rank" : "2"
                     },
                     "messages" : [
@@ -270,9 +172,9 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Tropics.png",
-                        "name" : "Tropics",
-                        "rank" : "6"
+                        "logo" : "images/Rebels.png",
+                        "name" : "Rebels",
+                        "rank" : "4"
                     },
                     "team2" : {
                         "logo" : "images/Ravens.png",
@@ -280,7 +182,8 @@
                         "rank" : "3"
                     },
                     "messages" : [
-                        "9 ET"
+                        "9 ET",
+                        "Live on SESN"
                     ]
                 }
             ]
