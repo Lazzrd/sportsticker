@@ -184,11 +184,12 @@
                     "messages" : [
                         "9 ET",
                         "Live on FTN"
-                    ]
+                  ]
                 }
             ]
-        ],
-        {
+        ]
+    },
+    {
         "topic" : "Scores",
         "items" : [
             [
