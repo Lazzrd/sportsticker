@@ -210,6 +210,25 @@
                         "F/9"
                     ]
                 }
+            ],
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : 1,
+                        "name" : "Breeze",
+                        "points" : 11
+                    },
+                    "team2" : {
+                        "rank" : 8,
+                        "name" : "Fighters",
+                        "points" : 10
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                }
             ]
         ]
     }
