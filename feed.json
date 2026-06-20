@@ -188,5 +188,28 @@
                 }
             ]
         ]
+        {
+        "topic" : "Scores",
+        "items" : [
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : 11,
+                        "name" : "Bears",
+                        "points" : 10
+                    },
+                    "team2" : {
+                        "rank" : 12,
+                        "name" : "Firebirds",
+                        "points" : 12
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                }
+            ]
+        ]
     }
 ]
