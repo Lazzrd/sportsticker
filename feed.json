@@ -35,7 +35,7 @@
                     "badgeColor" : "#006341",
                     "badgeText" : "Standings",
                     "messages" : [
-                        "1. CHB | 2. OCF 0GB | 3. CHR 0GB | 4. ATL 1GB | 5. BAL 1GB | 6. SF 1GB | 7. MIN 1GB | 8. NHF 1GB | 9. PHI 1GB | 10. HI 2GB | 11. DSN 2GB | 12. ARI 2GB"
+                        "1. CHB | 2. CHR 0GB | 3. OCF 1GB | 4. MIN 1GB | 5. PHI 1GB | 6. ATL 2GB | 7. BAL 2GB | 8. SF 2GB | 9. HI 2GB | 10. NHF 2GB | 11. ARI 2GB | 12. DSN 3GB"
                     ]
                 }
             ]
