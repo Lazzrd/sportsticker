@@ -14,6 +14,19 @@
         ]
     },
     {
+        "topic" : "Program Alert",
+        "items" : [
+            [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "The NSR Gen 4 Series: The Tropicana 400 is live on FTN"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
         "topic" : "Standings",
         "items" : [
             [
@@ -34,33 +47,10 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#191A2D",
-                    "badgeText" : "DSN",
+                    "badgeColor" : "#1E1E1E",
+                    "badgeText" : "OCF",
                     "messages" : [
-                        "Release: ukoXXVII"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#526FFF",
-                    "badgeText" : "MIN",
-                    "messages" : [
-                        "Sign: opulen_ce",
-                        "Sign: Nerdyb0iXtraComedy"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#8F2820",
-                    "badgeText" : "ATL",
-                    "messages" : [
-                        "Sign: evracore",
-                        "Sign: EEGodzila",
-                        "Sign: 1000kofnsl"
+                        "Sign: MysteriousAcorn0"
                     ]
                 }
             ]
@@ -81,13 +71,13 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Breeze.png",
-                        "name" : "Breeze",
-                        "rank" : "1"
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
+                        "rank" : "5"
                     },
                     "team2" : {
-                        "logo" : "images/Fighters.png",
-                        "name" : "Fighters",
+                        "logo" : "images/Jailbirds.png",
+                        "name" : "Jailbirds",
                         "rank" : "8"
                     },
                     "messages" : [
@@ -99,14 +89,14 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/DoosanBears.png",
-                        "name" : "Bears",
-                        "rank" : "11"
+                        "logo" : "images/Orbit.png",
+                        "name" : "Orbit",
+                        "rank" : "3"
                     },
                     "team2" : {
-                        "logo" : "images/Firebirds.png",
-                        "name" : "Firebirds",
-                        "rank" : "12"
+                        "logo" : "images/Heat.png",
+                        "name" : "Heat",
+                        "rank" : "9"
                     },
                     "messages" : [
                         "8 ET"
@@ -117,53 +107,17 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Jailbirds.png",
-                        "name" : "Jailbirds",
-                        "rank" : "6"
-                    },
-                    "team2" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "9"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Heat.png",
-                        "name" : "Heat",
-                        "rank" : "10"
-                    },
-                    "team2" : {
-                        "logo" : "images/Orbit.png",
-                        "name" : "Orbit",
-                        "rank" : "2"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Rebels.png",
-                        "name" : "Rebels",
-                        "rank" : "4"
-                    },
-                    "team2" : {
                         "logo" : "images/Ravens.png",
                         "name" : "Ravens",
-                        "rank" : "3"
+                        "rank" : "2"
+                    },
+                    "team2" : {
+                        "logo" : "images/Rebels.png",
+                        "name" : "Rebels",
+                        "rank" : "6"
                     },
                     "messages" : [
-                        "9 ET",
+                        "8 ET",
                         "Live on SESN"
                     ]
                 }
@@ -172,62 +126,55 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Ospreys.png",
-                        "name" : "Ospreys",
-                        "rank" : "5"
+                        "logo" : "images/Fighters.png",
+                        "name" : "Fighters",
+                        "rank" : "10"
                     },
                     "team2" : {
-                        "logo" : "images/Blizzards.png",
-                        "name" : "Blizzards",
-                        "rank" : "7"
+                        "logo" : "images/Breeze.png",
+                        "name" : "Breeze",
+                        "rank" : "1"
                     },
                     "messages" : [
-                        "9 ET",
-                        "Live on FTN"
-                  ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Scores",
-        "items" : [
-            [
-                {
-                    "type" : "scores",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : 11,
-                        "name" : "Bears",
-                        "points" : 10
-                    },
-                    "team2" : {
-                        "rank" : 12,
-                        "name" : "Firebirds",
-                        "points" : 12
-                    },
-                    "messages" : [
-                        "F/9"
+                        "9 ET"
                     ]
                 }
             ],
             [
                 {
-                    "type" : "scores",
-                    "isFinal" : true,
+                    "type" : "matchup",
                     "team1" : {
-                        "rank" : 1,
-                        "name" : "Breeze",
-                        "points" : 11
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "4"
                     },
                     "team2" : {
-                        "rank" : 8,
-                        "name" : "Fighters",
-                        "points" : 10
+                        "logo" : "images/Osprey.png",
+                        "name" : "Osprey",
+                        "rank" : "7"
                     },
                     "messages" : [
-                        "F/9"
+                        "9 ET",
+                        "Live on FTN"
                     ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Firebirds.png",
+                        "name" : "Firebirds",
+                        "rank" : "11"
+                    },
+                    "team2" : {
+                        "logo" : "images/DoosanBears.png",
+                        "name" : "Bears",
+                        "rank" : "12"
+                    },
+                    "messages" : [
+                        "9 ET"
+                  ]
                 }
             ]
         ]
