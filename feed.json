@@ -200,7 +200,9 @@
                     "messages" : [
                         "F/9"
                     ]
-                },
+                }
+            ],
+            [
                 {
                     "type" : "scores-abbr",
                     "isFinal" : true,
@@ -216,7 +218,10 @@
                     },
                     "messages" : [
                         "Cam8848 and LegendzIsHim 2 HR game, LegendzIsHim 5 RBIs"
-                },
+                    ]
+                }
+            ],
+            [
                 {
                     "type" : "scores",
                     "isFinal" : true,
@@ -233,8 +238,10 @@
                     "messages" : [
                         "F/9"
                     ]
-                },
-                               {
+                }
+            ],
+            [
+                {
                     "type" : "scores-abbr",
                     "isFinal" : true,
                     "team1" : {
