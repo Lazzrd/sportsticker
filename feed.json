@@ -36,22 +36,7 @@
                     "badgeColor" : "#006341",
                     "badgeText" : "Standings",
                     "messages" : [
-                        "1. CHB | 2. CHR 0GB | 3. OCF 1GB | 4. MIN 1GB | 5. PHI 1GB | 6. ATL 2GB | 7. BAL 2GB | 8. SF 2GB | 9. HI 2GB | 10. NHF 2GB | 11. ARI 2GB | 12. DSN 3GB"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Signings",
-        "items" : [
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#1E1E1E",
-                    "badgeText" : "OCF",
-                    "messages" : [
-                        "Sign: MysteriousAcorn0"
+                        "1. CHB | 2. CHR 1GB | 3. OCF 3GB | 4. NHF 4GB | 5. BAL 5GB | 6. HI 5GB | 7. MIN 5GB | 8. ARI 6GB | 9. SF 8GB | 10. ATL 9GB | 11. NY 9GB | 12. PHI 11GB"
                     ]
                 }
             ]
@@ -72,17 +57,72 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "5"
+                        "logo" : "images/Firebirds.png",
+                        "name" : "Firebirds",
+                        "rank" : "8"
                     },
                     "team2" : {
-                        "logo" : "images/Jailbirds.png",
-                        "name" : "Jailbirds",
-                        "rank" : "8"
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
+                        "rank" : "12"
                     },
                     "messages" : [
                         "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Bombers.png",
+                        "name" : "Bombers",
+                        "rank" : "11"
+                    },
+                    "team2" : {
+                        "logo" : "images/Ospreys.png",
+                        "name" : "Ospreys",
+                        "rank" : "5"
+                    },
+                    "messages" : [
+                        "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Breeze.png",
+                        "name" : "Breeze",
+                        "rank" : "2"
+                    },
+                    "team2" : {
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "7"
+                    },
+                    "messages" : [
+                        "8 ET",
+                        "Live on FTN"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Fighters.png",
+                        "name" : "Fighters",
+                        "rank" : "4"
+                    },
+                    "team2" : {
+                        "logo" : "images/Rebels.png",
+                        "name" : "Rebels",
+                        "rank" : "10"
+                    },
+                    "messages" : [
+                        "9 ET"
                     ]
                 }
             ],
@@ -95,30 +135,12 @@
                         "rank" : "3"
                     },
                     "team2" : {
-                        "logo" : "images/Heat.png",
-                        "name" : "Heat",
-                        "rank" : "9"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
                         "logo" : "images/Ravens.png",
                         "name" : "Ravens",
-                        "rank" : "2"
-                    },
-                    "team2" : {
-                        "logo" : "images/Rebels.png",
-                        "name" : "Rebels",
-                        "rank" : "6"
+                        "rank" : "1"
                     },
                     "messages" : [
-                        "8 ET",
+                        "9 ET",
                         "Live on SESN"
                     ]
                 }
@@ -127,51 +149,14 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Fighters.png",
-                        "name" : "Fighters",
-                        "rank" : "10"
+                        "logo" : "images/Jarilbirds.png",
+                        "name" : "Jailbirds",
+                        "rank" : "9"
                     },
                     "team2" : {
-                        "logo" : "images/Breeze.png",
-                        "name" : "Breeze",
-                        "rank" : "1"
-                    },
-                    "messages" : [
-                        "9 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Blizzards.png",
-                        "name" : "Blizzards",
-                        "rank" : "4"
-                    },
-                    "team2" : {
-                        "logo" : "images/Ospreys.png",
-                        "name" : "Ospreys",
-                        "rank" : "7"
-                    },
-                    "messages" : [
-                        "9 ET",
-                        "Live on FTN"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Firebirds.png",
-                        "name" : "Firebirds",
-                        "rank" : "11"
-                    },
-                    "team2" : {
-                        "logo" : "images/DoosanBears.png",
-                        "name" : "Bears",
-                        "rank" : "12"
+                        "logo" : "images/Heat.png",
+                        "name" : "Heat",
+                        "rank" : "6"
                     },
                     "messages" : [
                         "9 ET"
