@@ -240,5 +240,46 @@
                 }
             ]
         ]
+    },
+    {
+        "topic" : "Scores",
+        "items" : [
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "2",
+                        "name" : "Ravens",
+                        "points" : "10"
+                    },
+                    "team2" : {
+                        "rank" : "9",
+                        "name" : "Firebirds",
+                        "points" : "5"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                },
+                {
+                    "type" : "scores-abbr",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "2",
+                        "abbr" : "CHR",
+                        "points" : "10"
+                    },
+                    "team2" : {
+                        "rank" : "9",
+                        "abbr" : "ARI",
+                        "points" : "5"
+                    },
+                    "messages" : [
+                        "Ravens score 9 runs from the 7th onwards to win the game 10-5"
+                    ]
+                }
+            ]
+        ]
     }
 ]
