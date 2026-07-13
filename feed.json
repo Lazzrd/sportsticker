@@ -14,20 +14,6 @@
         ]
     },
     {
-        "topic" : "Live on FTN",
-        "items" : [
-            [
-                {
-                    "type" : "full",
-                    "messages" : [
-                        "The NSR Gen 4 Series: The 3M Performance 400 is live on FTN",
-                        "The Universal iRacing Series at Richmond Raceway is live on FTN"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
         "topic" : "Standings",
         "items" : [
             [
@@ -36,7 +22,95 @@
                     "badgeColor" : "#006341",
                     "badgeText" : "Standings",
                     "messages" : [
-                        "1. CHB | 2. CHR 1GB | 3. OCF 3GB | 4. NHF 4GB | 5. BAL 5GB | 6. HI 5GB | 7. MIN 5GB | 8. ARI 6GB | 9. SF 8GB | 10. ATL 9GB | 11. NY 9GB | 12. PHI 11GB"
+                        "1. CHB | 2. CHR 2GB | 3. OCF 3GB | 4. NHF 4GB | 5. BAL 6GB | 6. HI 6GB | 7. MIN 6GB | 8. ARI 7GB | 9. SF 8GB | 10. NY 9GB | 11. ATL 10GB | 12. PHI 11GB"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "Waivers",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#FE5D01",
+                    "badgeText" : "HI",
+                    "messages" : [
+                        "Desire_Doggo removed from roster",
+                        "receive lizzotooted"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "Signings",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#516CF8",
+                    "badgeText" : "MIN",
+                    "messages" : [
+                        "release: 23f_5",
+                        "sign: godmode1217, JohnnyOnABoat"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#272A44",
+                    "badgeText" : "NY",
+                    "messages" : [
+                        "release: Dan_rhz, JohnnyOnABoat, godmode1217",
+                        "sign: 23_f5, Dritbikegavin445"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#41B6E7",
+                    "badgeText" : "CHB",
+                    "messages" : [
+                        "release: crazycaden159"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#005B94",
+                    "badgeText" : "CHB",
+                    "messages" : [
+                        "sign: crazycaden159"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "Trades",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#272A44",
+                    "badgeText" : "NY",
+                    "messages" : [
+                        "recieves: TheFihhhh"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#753232",
+                    "badgeText" : "PHI",
+                    "messages" : [
+                        "recieves: SxdFrawst, Frograys"
                     ]
                 }
             ]
@@ -49,62 +123,8 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "Join the official HCBB discord today, discord.gg/hcbb!"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Firebirds.png",
-                        "name" : "Firebirds",
-                        "rank" : "8"
-                    },
-                    "team2" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "12"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Bombers.png",
-                        "name" : "Bombers",
-                        "rank" : "11"
-                    },
-                    "team2" : {
-                        "logo" : "images/Ospreys.png",
-                        "name" : "Ospreys",
-                        "rank" : "5"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Breeze.png",
-                        "name" : "Breeze",
-                        "rank" : "2"
-                    },
-                    "team2" : {
-                        "logo" : "images/Blizzards.png",
-                        "name" : "Blizzards",
-                        "rank" : "7"
-                    },
-                    "messages" : [
-                        "8 ET",
-                        "Live on FTN"
+                        "Join the official HCBB discord today, discord.gg/hcbb!",
+                        "Follow the official HCBB channels on TikTok, YouTube, and Instagram! (hcbbnetwork_ on IG and TT, hcbbnetwork on YT)"
                     ]
                 }
             ],
@@ -117,31 +137,12 @@
                         "rank" : "4"
                     },
                     "team2" : {
-                        "logo" : "images/Rebels.png",
-                        "name" : "Rebels",
-                        "rank" : "10"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
                         "logo" : "images/Orbit.png",
                         "name" : "Orbit",
                         "rank" : "3"
                     },
-                    "team2" : {
-                        "logo" : "images/Ravens.png",
-                        "name" : "Ravens",
-                        "rank" : "1"
-                    },
                     "messages" : [
-                        "9 ET",
-                        "Live on SESN"
+                        "8 ET"
                     ]
                 }
             ],
@@ -154,12 +155,86 @@
                         "rank" : "9"
                     },
                     "team2" : {
+                        "logo" : "images/Rebels.png",
+                        "name" : "Rebels",
+                        "rank" : "11"
+                    },
+                    "messages" : [
+                        "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Ravens.png",
+                        "name" : "Ravens",
+                        "rank" : "2"
+                    },
+                    "team2" : {
+                        "logo" : "images/Firebirds.png",
+                        "name" : "Firebirds",
+                        "rank" : "9"
+                    },
+                    "messages" : [
+                        "8 ET",
+                        "Live on SESN"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Ospreys.png",
+                        "name" : "Ospreys",
+                        "rank" : "5"
+                    },
+                    "team2" : {
                         "logo" : "images/Heat.png",
                         "name" : "Heat",
                         "rank" : "6"
                     },
                     "messages" : [
                         "9 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Surge.png",
+                        "name" : "Surge",
+                        "rank" : "12"
+                    },
+                    "team2" : {
+                        "logo" : "images/Breeze.png",
+                        "name" : "Breeze",
+                        "rank" : "1"
+                    },
+                    "messages" : [
+                        "9 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "7"
+                    },
+                    "team2" : {
+                        "logo" : "images/Bombers.png",
+                        "name" : "Bombers",
+                        "rank" : "10"
+                    },
+                    "messages" : [
+                        "9 ET",
+                        "Live on FTN"
                   ]
                 }
             ]
