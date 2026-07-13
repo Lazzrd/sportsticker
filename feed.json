@@ -312,6 +312,23 @@
                     "messages" : [
                         "F/9"
                     ]
+                },
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "1",
+                        "name" : "Breeze",
+                        "points" : "2"
+                    },
+                    "team2" : {
+                        "rank" : "12",
+                        "name" : "Surge",
+                        "points" : "3"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
                 }
             ]
         ]
