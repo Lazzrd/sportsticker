@@ -278,6 +278,40 @@
                     "messages" : [
                         "Ravens score 9 runs from the 7th onwards to win the game 10-5"
                     ]
+                },
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "9",
+                        "name" : "Jailbirds",
+                        "points" : "8"
+                    },
+                    "team2" : {
+                        "rank" : "11",
+                        "name" : "Rebels",
+                        "points" : "6"
+                    },
+                    "messages" : [
+                        "F/11"
+                    ]
+                },
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "4",
+                        "name" : "Fighters",
+                        "points" : "6"
+                    },
+                    "team2" : {
+                        "rank" : "3",
+                        "name" : "Orbit",
+                        "points" : "4"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
                 }
             ]
         ]
