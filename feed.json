@@ -269,6 +269,40 @@
                     "messages" : [
                         "F/9"
                     ]
+                },
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "7",
+                        "name" : "Heat",
+                        "points" : "5"
+                    },
+                    "team2" : {
+                        "rank" : "5",
+                        "name" : "Ospreys",
+                        "points" : "7"
+                    },
+                    "messages" : [
+                        "F/10"
+                    ]
+                },
+                                {
+                    "type" : "scores-abbr",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "7",
+                        "abbr" : "HI",
+                        "points" : "5"
+                    },
+                    "team2" : {
+                        "rank" : "5",
+                        "abbr" : "BAL",
+                        "points" : "7"
+                    },
+                    "messages" : [
+                        "ComebackBen walk-off 2 run HR to win the game in 10 innings for the Baltimore Ospreys"
+                    ]
                 }
             ]
         ]
