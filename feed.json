@@ -37,8 +37,8 @@
                     "badgeColor" : "#272A44",
                     "badgeText" : "NY",
                     "messages" : [
-                        "Desire_Doggo removed from roster",
-                        "receive lizzotooted"
+                        "Aviatorace6 removed from roster",
+                        "receive voidsnoopy"
                     ]
                 }
             ],
@@ -245,6 +245,30 @@
                         "9 ET",
                         "Live on SESN"
                   ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "Scores",
+        "items" : [
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "1",
+                        "name" : "Breeze",
+                        "points" : "6"
+                    },
+                    "team2" : {
+                        "rank" : "12",
+                        "name" : "Surge",
+                        "points" : "5"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
                 }
             ]
         ]
