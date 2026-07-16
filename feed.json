@@ -64,7 +64,9 @@
                         "Join the official HCBB discord today, discord.gg/hcbb!",
                         "Follow the official HCBB channels on TikTok, YouTube, and Instagram! (hcbbnetwork_ on IG and TT, hcbbnetwork on YT)"
                     ]
-                },
+                }
+            ],
+            [
                 {
                     "type" : "scores",
                     "isFinal" : true,
@@ -81,7 +83,9 @@
                     "messages" : [
                         "F/9"
                     ]
-                },
+                }
+            ],
+            [
                 {
                     "type" : "scores",
                     "isFinal" : true,
@@ -98,7 +102,7 @@
                     "messages" : [
                         "F/9"
                     ]
-                },
+                }
             ],
             [
                 {
