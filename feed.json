@@ -22,34 +22,7 @@
                     "badgeColor" : "#006341",
                     "badgeText" : "Standings",
                     "messages" : [
-                        "1. CHB | 2. CHR 2GB | 3. OCF 3GB | 4. NHF 3GB | 5. BAL 5GB | 6. MIN 5GB | 7. HI 6GB | 8. SF 7GB | 9. ARI 7GB | 10. NY 9GB | 11. ATL 10GB | 12. PHI 10GB"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Waivers",
-        "items" : [
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#272A44",
-                    "badgeText" : "NY",
-                    "messages" : [
-                        "Aviatorace6 removed from roster",
-                        "receive voidsnoopy"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#FD5A1E",
-                    "badgeText" : "SF",
-                    "messages" : [
-                        "RandyIbrahimovic removed from roster",
-                        "receive Aurapherious, under No Pitching/Catching Clause"
+                        "1. CHB | 2. CHR 2GB | 3. OCF 3GB | 4. NHF 4GB | 5. BAL 5GB | 6. MIN 6GB | 7. HI 7GB | 8. ARI 7GB | 9. SF 8GB | 10. NY 9GB | 11. ATL 10GB | 12. PHI 11GB"
                     ]
                 }
             ]
@@ -64,69 +37,25 @@
                     "badgeColor" : "#672D91",
                     "badgeText" : "CHI",
                     "messages" : [
-                        "sign:"
+                        "release: praisestowers",
+                        "sign: Ba2xk"
                     ]
                 }
             ],
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#FD5A1E",
-                    "badgeText" : "SF",
+                    "badgeColor" : "#ff6a00",
+                    "badgeText" : "HI",
                     "messages" : [
-                        "sign: HaysBad"
+                        "sign: praisestowers"
                     ]
                 }
             ]
         ]
     },
     {
-        "topic" : "Trades",
-        "items" : [
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#005B94",
-                    "badgeText" : "NHF",
-                    "messages" : [
-                        "recieves: icariu_s, silverfish2897"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#8C271E",
-                    "badgeText" : "PHI",
-                    "messages" : [
-                        "recieves: 0starmilo, ridvalk, Kuzrhz"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#272A44",
-                    "badgeText" : "NY",
-                    "messages" : [
-                        "recieves: siegils"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#227C7D",
-                    "badgeText" : "AZ",
-                    "messages" : [
-                        "recieves: 0starmilo, ridvalk, Kuzrhz"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Game Times",
+        "topic" : "Games",
         "items" : [
             [
                 {
@@ -141,54 +70,17 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Heat.png",
-                        "name" : "Heat",
-                        "rank" : "7"
+                        "logo" : "images/Jailbirds.png",
+                        "name" : "Jailbirds",
+                        "rank" : "9"
                     },
                     "team2" : {
-                        "logo" : "images/Ospreys.png",
-                        "name" : "Ospreys",
-                        "rank" : "5"
+                        "logo" : "images/Fighters.png",
+                        "name" : "Fighters",
+                        "rank" : "4"
                     },
                     "messages" : [
                         "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Breeze.png",
-                        "name" : "Breeze",
-                        "rank" : "1"
-                    },
-                    "team2" : {
-                        "logo" : "images/Surge.png",
-                        "name" : "Surge",
-                        "rank" : "12"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Bombers.png",
-                        "name" : "Bombers",
-                        "rank" : "10"
-                    },
-                    "team2" : {
-                        "logo" : "images/Blizzards.png",
-                        "name" : "Blizzards",
-                        "rank" : "6"
-                    },
-                    "messages" : [
-                        "9 ET",
-                        "Live on FTN"
                     ]
                 }
             ],
@@ -201,9 +93,27 @@
                         "rank" : "3"
                     },
                     "team2" : {
-                        "logo" : "images/Fighters.png",
-                        "name" : "Fighters",
-                        "rank" : "4"
+                        "logo" : "images/Firebirds.png",
+                        "name" : "Firebirds",
+                        "rank" : "8"
+                    },
+                    "messages" : [
+                        "8 ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Ospreys.png",
+                        "name" : "Ospreys",
+                        "rank" : "5"
+                    },
+                    "team2" : {
+                        "logo" : "images/Rebels.png",
+                        "name" : "Rebels",
+                        "rank" : "11"
                     },
                     "messages" : [
                         "9 ET"
@@ -214,18 +124,18 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Rebels.png",
-                        "name" : "Rebels",
-                        "rank" : "11"
+                        "logo" : "images/Ravens.png",
+                        "name" : "Ravens",
+                        "rank" : "2"
                     },
                     "team2" : {
-                        "logo" : "images/Jailbirds.png",
-                        "name" : "Jailbirds",
-                        "rank" : "8"
+                        "logo" : "images/Breeze.png",
+                        "name" : "Breeze",
+                        "rank" : "1"
                     },
                     "messages" : [
                         "9 ET",
-                        "Live on WhosHawkz Twitch"
+                        "Live on SESN"
                     ]
                 }
             ],
@@ -233,145 +143,37 @@
                 {
                     "type" : "matchup",
                     "team1" : {
-                        "logo" : "images/Firebirds.png",
-                        "name" : "Firebirds",
-                        "rank" : "9"
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "6"
                     },
                     "team2" : {
-                        "logo" : "images/Ravens.png",
-                        "name" : "Ravens",
-                        "rank" : "2"
+                        "logo" : "images/Heat.png",
+                        "name" : "Heat",
+                        "rank" : "7"
                     },
                     "messages" : [
                         "9 ET",
-                        "Live on SESN"
-                  ]
+                        "Live on FTN"
+                    ]
                 }
-            ]
-        ]
-    },
-    {
-        "topic" : "Scores",
-        "items" : [
+            ],
             [
                 {
-                    "type" : "scores",
-                    "isFinal" : true,
+                    "type" : "matchup",
                     "team1" : {
-                        "rank" : "1",
-                        "name" : "Breeze",
-                        "points" : "6"
-                    },
-                    "team2" : {
-                        "rank" : "12",
+                        "logo" : "images/Surge.png",
                         "name" : "Surge",
-                        "points" : "5"
-                    },
-                    "messages" : [
-                        "F/9"
-                    ]
-                },
-                {
-                    "type" : "scores",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "7",
-                        "name" : "Heat",
-                        "points" : "5"
+                        "rank" : "12"
                     },
                     "team2" : {
-                        "rank" : "5",
-                        "name" : "Ospreys",
-                        "points" : "7"
+                        "logo" : "images/Bombers.png",
+                        "name" : "Bombers",
+                        "rank" : "10"
                     },
                     "messages" : [
-                        "F/10"
-                    ]
-                },
-                {
-                    "type" : "scores-abbr",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "7",
-                        "abbr" : "HI",
-                        "points" : "5"
-                    },
-                    "team2" : {
-                        "rank" : "5",
-                        "abbr" : "BAL",
-                        "points" : "7"
-                    },
-                    "messages" : [
-                        "ComebackBen walk-off 2 run HR to win the game in 10 innings for the Baltimore Ospreys"
-                    ]
-                },
-                {
-                    "type" : "scores",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "3",
-                        "name" : "Orbit",
-                        "points" : "11"
-                    },
-                    "team2" : {
-                        "rank" : "4",
-                        "name" : "Fighters",
-                        "points" : "5"
-                    },
-                    "messages" : [
-                        "F/9"
-                    ]
-                },
-                {
-                    "type" : "scores",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "11",
-                        "name" : "Rebels",
-                        "points" : "6"
-                    },
-                    "team2" : {
-                        "rank" : "8",
-                        "name" : "Jailbirds",
-                        "points" : "5"
-                    },
-                    "messages" : [
-                        "F/10"
-                    ]
-                },
-                {
-                    "type" : "scores-abbr",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "11",
-                        "abbr" : "ATL",
-                        "points" : "6"
-                    },
-                    "team2" : {
-                        "rank" : "8",
-                        "abbr" : "SF",
-                        "points" : "5"
-                    },
-                    "messages" : [
-                        "Jose_Altuve with go-ahead Solo HR to win the game in 10 innings for the Atlanta Rebels"
-                    ]
-                },
-                {
-                    "type" : "scores",
-                    "isFinal" : true,
-                    "team1" : {
-                        "rank" : "9",
-                        "name" : "Firebirds",
-                        "points" : "11"
-                    },
-                    "team2" : {
-                        "rank" : "2",
-                        "name" : "Ravens",
-                        "points" : "5"
-                    },
-                    "messages" : [
-                        "F/9"
-                    ]
+                        "9 ET"
+                  ]
                 }
             ]
         ]
