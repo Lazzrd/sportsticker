@@ -106,38 +106,39 @@
             ],
             [
                 {
-                    "type" : "matchup",
+                    "type" : "scores",
+                    "isFinal" : true,
                     "team1" : {
-                        "logo" : "images/Ospreys.png",
+                        "rank" : "5",
                         "name" : "Ospreys",
-                        "rank" : "5"
+                        "points" : "7"
                     },
                     "team2" : {
-                        "logo" : "images/Rebels.png",
+                        "rank" : "11",
                         "name" : "Rebels",
-                        "rank" : "11"
+                        "points" : "4"
                     },
                     "messages" : [
-                        "9 ET"
+                        "F/9"
                     ]
                 }
             ],
             [
                 {
-                    "type" : "matchup",
+                    "type" : "scores",
+                    "isFinal" : true,
                     "team1" : {
-                        "logo" : "images/Ravens.png",
+                        "rank" : "2",
                         "name" : "Ravens",
-                        "rank" : "2"
+                        "points" : "6"
                     },
                     "team2" : {
-                        "logo" : "images/Breeze.png",
+                        "rank" : "1",
                         "name" : "Breeze",
-                        "rank" : "1"
+                        "points" : "12"
                     },
                     "messages" : [
-                        "9 ET",
-                        "Live on SESN"
+                        "F/9"
                     ]
                 }
             ],
@@ -162,20 +163,21 @@
             ],
             [
                 {
-                    "type" : "matchup",
+                    "type" : "scores",
+                    "isFinal" : true,
                     "team1" : {
-                        "logo" : "images/Surge.png",
+                        "rank" : "12",
                         "name" : "Surge",
-                        "rank" : "12"
+                        "points" : "9"
                     },
                     "team2" : {
-                        "logo" : "images/Bombers.png",
+                        "rank" : "10",
                         "name" : "Bombers",
-                        "rank" : "10"
+                        "points" : "2"
                     },
                     "messages" : [
-                        "9 ET"
-                  ]
+                        "F/9"
+                    ]
                 }
             ]
         ]
