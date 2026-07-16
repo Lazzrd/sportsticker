@@ -64,43 +64,41 @@
                         "Join the official HCBB discord today, discord.gg/hcbb!",
                         "Follow the official HCBB channels on TikTok, YouTube, and Instagram! (hcbbnetwork_ on IG and TT, hcbbnetwork on YT)"
                     ]
-                }
-            ],
-            [
+                },
                 {
-                    "type" : "matchup",
+                    "type" : "scores",
+                    "isFinal" : true,
                     "team1" : {
-                        "logo" : "images/Jailbirds.png",
-                        "name" : "Jailbirds",
-                        "rank" : "9"
-                    },
-                    "team2" : {
-                        "logo" : "images/Fighters.png",
-                        "name" : "Fighters",
-                        "rank" : "4"
-                    },
-                    "messages" : [
-                        "8 ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "matchup",
-                    "team1" : {
-                        "logo" : "images/Orbit.png",
+                        "rank" : "3",
                         "name" : "Orbit",
-                        "rank" : "3"
+                        "points" : "11"
                     },
                     "team2" : {
-                        "logo" : "images/Firebirds.png",
+                        "rank" : "8",
                         "name" : "Firebirds",
-                        "rank" : "8"
+                        "points" : "8"
                     },
                     "messages" : [
-                        "8 ET"
+                        "F/9"
                     ]
-                }
+                },
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "9",
+                        "name" : "Jailbirds",
+                        "points" : "16"
+                    },
+                    "team2" : {
+                        "rank" : "4",
+                        "name" : "Fighters",
+                        "points" : "8"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                },
             ],
             [
                 {
