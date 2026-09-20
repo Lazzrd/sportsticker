@@ -1,0 +1,185 @@
+[
+    {
+        "topic" : "FTN",
+        "items" : [
+            [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "You're watching the HCBB Main League on FTN",
+                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "Standings",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#006341",
+                    "badgeText" : "Standings",
+                    "messages" : [
+                        "1. CHB | 2. CHR 2GB | 3. OCF 3GB | 4. NHF 4GB | 5. BAL 5GB | 6. MIN 6GB | 7. HI 7GB | 8. ARI 7GB | 9. SF 8GB | 10. NY 9GB | 11. ATL 10GB | 12. PHI 11GB"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "Signings",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#672D91",
+                    "badgeText" : "CHI",
+                    "messages" : [
+                        "release: praisestowers",
+                        "sign: Ba2xk"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#ff6a00",
+                    "badgeText" : "HI",
+                    "messages" : [
+                        "sign: praisestowers"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "Games",
+        "items" : [
+            [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Join the official HCBB discord today, discord.gg/hcbb!",
+                        "Follow the official HCBB channels on TikTok, YouTube, and Instagram! (hcbbnetwork_ on IG and TT, hcbbnetwork on YT)"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "3",
+                        "name" : "Orbit",
+                        "points" : "11"
+                    },
+                    "team2" : {
+                        "rank" : "8",
+                        "name" : "Firebirds",
+                        "points" : "8"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "9",
+                        "name" : "Jailbirds",
+                        "points" : "16"
+                    },
+                    "team2" : {
+                        "rank" : "4",
+                        "name" : "Fighters",
+                        "points" : "8"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "5",
+                        "name" : "Ospreys",
+                        "points" : "7"
+                    },
+                    "team2" : {
+                        "rank" : "11",
+                        "name" : "Rebels",
+                        "points" : "4"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "2",
+                        "name" : "Ravens",
+                        "points" : "6"
+                    },
+                    "team2" : {
+                        "rank" : "1",
+                        "name" : "Breeze",
+                        "points" : "12"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "matchup",
+                    "team1" : {
+                        "logo" : "images/Blizzards.png",
+                        "name" : "Blizzards",
+                        "rank" : "6"
+                    },
+                    "team2" : {
+                        "logo" : "images/Heat.png",
+                        "name" : "Heat",
+                        "rank" : "7"
+                    },
+                    "messages" : [
+                        "9 ET",
+                        "Live on FTN"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "scores",
+                    "isFinal" : true,
+                    "team1" : {
+                        "rank" : "12",
+                        "name" : "Surge",
+                        "points" : "9"
+                    },
+                    "team2" : {
+                        "rank" : "10",
+                        "name" : "Bombers",
+                        "points" : "2"
+                    },
+                    "messages" : [
+                        "F/9"
+                    ]
+                }
+            ]
+        ]
+    }
+]
