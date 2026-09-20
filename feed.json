@@ -16,6 +16,14 @@
     {
         "topic" : "Integrity",
         "items" : [
+             [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Live on FTN, Tuesdays at 9:00 PM ET"
+                    ]
+                }
+            ],
             [
                 {
                     "type" : "full-with-badge",
@@ -41,7 +49,15 @@
     {
         "topic" : "IORA",
         "items" : [
-              [
+            [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Live on FTN, Thursdays at 9:00 PM ET"
+                    ]
+                }
+            ],  
+            [
                 {
                     "type" : "full-with-badge",
                     "badgeColor" : "#6A15D1",
@@ -66,7 +82,15 @@
     {
         "topic" : "NSR",
         "items" : [
-              [
+            [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Live on FTN, Saturdays at 8:00 PM ET"
+                    ]
+                }
+            ],  
+            [
                 {
                     "type" : "full-with-badge",
                     "badgeColor" : "#FD131E",
