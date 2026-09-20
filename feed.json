@@ -87,5 +87,20 @@
                 }
             ]
         ]
-    }
+    },
+    {
+        "topic" : "Whiplash",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#0184EA",
+                    "badgeText" : "WHIPLASH SIM CAMS",
+                    "messages" : [
+                        "Check out Whiplash Sim Cams today - FTN Broadcasting's official camera partner. Find out how you can revitalize your replays with Whiplash Sim Cams today."
+                    ]
+                }
+            ]
+        ]
+    },
 ]
