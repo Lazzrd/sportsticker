@@ -6,7 +6,7 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "You're watching the iRacing iRacing Proto-GT Challenge on FTN",
+                        "You're watching the iRacing GTE Sprint Series on FTN",
                         "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
                     ]
                 }
@@ -107,6 +107,39 @@
                     "badgeText" : "Points",
                     "messages" : [
                         "1. Saccocci 164 | 2. Mitchell 154 (-10) | 3. Lansdell 152 (-12) | 4. Crumley 149 (-15) | 5. Partridge 148 (-16) | 6. Robert Wiggins 142 (-22) | 7. Gracey 141 (-23) | 8. Pressey 139 (-25) | 9. Defore 138 (-26) | 10. Bryan Wiggins 138 (-26) | 11. Bitler 137 (-27)"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "Proto-GT",
+        "items" : [
+            [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Live on FTN, Sundays at 3:45 PM ET"
+                    ]
+                }
+            ],  
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#3250C4",
+                    "badgeText" : "P2 Results",
+                    "messages" : [
+                        "1. Kragtwijk | 2. Kimball -4.632 | 3. Benson -6.276 | 4. Seniow -9.491 | 5. Coleman -9.909"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#55CF24",
+                    "badgeText" : "GT1 Results",
+                    "messages" : [
+                        "1. Stich | 2. Osemwegie -0.802 | 3. Barraclough -2.225 | 4. White -16.354 | 5. Simmons -17.560"
                     ]
                 }
             ]
