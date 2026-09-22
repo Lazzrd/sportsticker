@@ -30,7 +30,7 @@
                     "badgeColor" : "#292DDA",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Stephenson | 2. Lane -0.715 | 3. Campbell -2.843 | 4. Smith -6.920 | 5. Thurston -13.570 | 6. Keeth -18.144 | 7. Patton -27.344 | 8. Debaro -27.457 | 9. Terebuch -31.292 | 10. Kim -31.293"
+                        "1. Stephenson   2. Lane -0.715   3. Campbell -2.843   4. Smith -6.920   5. Thurston -13.570   6. Keeth -18.144   7. Patton -27.344   8. Debaro -27.457   9. Terebuch -31.292   10. Kim -31.293"
                     ]
                 }
             ],
@@ -40,7 +40,40 @@
                     "badgeColor" : "#DB0103",
                     "badgeText" : "Points",
                     "messages" : [
-                        "1. Lane 220 | 2. Terebuch 2180 (-25) | 3. DeBaro 2158 (-47) | 4. Campbell 2140 (-65) | 5. Nieto 2128 (-77) | 6. Bean 2125 (-80) | 7. Smith 2125 (-80) | 8. Fyfe 2107 (-98) | 9. Ward 2107 (-98) | 10. Davis 2105 (-100) | 11. Trego 2102 (-103) | 12. Brad Potter 2101 (-104) | 13. Patton 2092 (-113) | 14. Kim 2079 (-126) | 15. Brock Potter 2069 (-136) | 16. Robert Richardson 2069 (-16)"
+                        "1. Lane 220   2. Terebuch 2180 (-25)   3. DeBaro 2158 (-47)   4. Campbell 2140 (-65)   5. Nieto 2128 (-77)   6. Bean 2125 (-80)   7. Smith 2125 (-80)   8. Fyfe 2107 (-98)   9. Ward 2107 (-98)   10. Davis 2105 (-100)   11. Trego 2102 (-103)   12. Brad Potter 2101 (-104)   13. Patton 2092 (-113)   14. Kim 2079 (-126)   15. Brock Potter 2069 (-136)   16. Robert Richardson 2069 (-16)"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "topic" : "GTE Sprint",
+        "items" : [
+            [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Live on FTN, Thursdays at 3 PM ET"
+                    ]
+                }
+            ],  
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#3250C4",
+                    "badgeText" : "Schedule",
+                    "messages" : [
+                        "Week 3: Watkins Glen (Boot)  Week 4: Catalunya (No Chicane)  Week 5: Le Mans  Week 6: Daytona Road Course  Week 7: Monza  Week : Fuji (No Chicane)  Week 9: Road America  Week 10: Montreal  Week 11: Suzuka  Week 12: Red Bull Ring"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#55CF24",
+                    "badgeText" : "Results",
+                    "messages" : [
+                        "1. Villela  2. Metzmacher -28.340  3. Krasnov -38.524  4. Pasemko -51.934  5. O'Neil -58.200  6. Radermacher -59.241  7. Soldatov -1:15.033  8. Kaehlert -1:25.400  9. Zavatta -1:27.374  10. Raffa -1:32.865"
                     ]
                 }
             ]
@@ -63,7 +96,7 @@
                     "badgeColor" : "#6A15D1",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Conklin | 2. Dahari -2.501 | 3. Page -5.598 | 4. Benton -6.122 | 5. Mosteller -9.964 | 6. Thurston -10.545 | 7. Maggio -11.810 | 8. Wilkerson -12.168 | 9. Malone -12.869 | 10. Schaffer -13.643"
+                        "1. Conklin   2. Dahari -2.501   3. Page -5.598   4. Benton -6.122   5. Mosteller -9.964   6. Thurston -10.545   7. Maggio -11.810   8. Wilkerson -12.168   9. Malone -12.869   10. Schaffer -13.643"
                     ]
                 }
             ],
@@ -73,7 +106,7 @@
                     "badgeColor" : "#FD007F",
                     "badgeText" : "Points",
                     "messages" : [
-                        "1. Wilkerson +85 | 2. Walker +82 | 3. Mosteller +73 | 4. Schaffer +52 | 5. Page +47 | 6. Benton +40 | 7. Frisch +39 | 8. Thurston +37 | 9. Conklin +29 | 10. Donohue +15 | WILDCARD | 11. Hancock +10 | 12. Paliwoda +7 | CUTLINE | 13. Shaver -7 | 14. Gregory -11"
+                        "1. Wilkerson +85   2. Walker +82   3. Mosteller +73   4. Schaffer +52   5. Page +47   6. Benton +40   7. Frisch +39   8. Thurston +37   9. Conklin +29   10. Donohue +15   WILDCARD   11. Hancock +10   12. Paliwoda +7   CUTLINE   13. Shaver -7   14. Gregory -11"
                     ]
                 }
             ]
@@ -96,7 +129,7 @@
                     "badgeColor" : "#FD131E",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Pressey | 2. Saccocci -0.551 | 3. Defore -6.489 | 4. Gracey -8.288 | 5. Kurdziel -10.424 | 6. Partridge -12.669 | 7. Bryan Wiggins -14.769 | 8. Robert Wiggins -23.224 | 9. Kent -23.467 | 10. Cope -33.796"
+                        "1. Pressey   2. Saccocci -0.551   3. Defore -6.489   4. Gracey -8.288   5. Kurdziel -10.424   6. Partridge -12.669   7. Bryan Wiggins -14.769   8. Robert Wiggins -23.224   9. Kent -23.467   10. Cope -33.796"
                     ]
                 }
             ],
@@ -106,7 +139,7 @@
                     "badgeColor" : "#0151F2",
                     "badgeText" : "Points",
                     "messages" : [
-                        "1. Saccocci 164 | 2. Mitchell 154 (-10) | 3. Lansdell 152 (-12) | 4. Crumley 149 (-15) | 5. Partridge 148 (-16) | 6. Robert Wiggins 142 (-22) | 7. Gracey 141 (-23) | 8. Pressey 139 (-25) | 9. Defore 138 (-26) | 10. Bryan Wiggins 138 (-26) | 11. Bitler 137 (-27)"
+                        "1. Saccocci 164   2. Mitchell 154 (-10)   3. Lansdell 152 (-12)   4. Crumley 149 (-15)   5. Partridge 148 (-16)   6. Robert Wiggins 142 (-22)   7. Gracey 141 (-23)   8. Pressey 139 (-25)   9. Defore 138 (-26)   10. Bryan Wiggins 138 (-26)   11. Bitler 137 (-27)"
                     ]
                 }
             ]
@@ -122,14 +155,24 @@
                         "Live on FTN, Sundays at 3:45 PM ET"
                     ]
                 }
-            ],  
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#3250C4",
+                    "badgeText" : "Schedule",
+                    "messages" : [
+                        "Week 2: Lime Rock Park   Week 3: Hockenheim  Week 4: Nordschleife   Week 5: Spa-Francorchamps   Week 6: Road America   Week 7: Monza   Week 8: Navarra   Week 9: Barcelona (No Chicane)   Week 10: Suzuka   Week 11: Road Atlanta   Week 12: Sebring"
+                    ]
+                }
+            ],
             [
                 {
                     "type" : "full-with-badge",
                     "badgeColor" : "#3250C4",
                     "badgeText" : "P2 Results",
                     "messages" : [
-                        "1. Kragtwijk | 2. Kimball -4.632 | 3. Benson -6.276 | 4. Seniow -9.491 | 5. Coleman -9.909"
+                        "1. Kragtwijk   2. Kimball -4.632   3. Benson -6.276   4. Seniow -9.491   5. Coleman -9.909"
                     ]
                 }
             ],
@@ -139,7 +182,7 @@
                     "badgeColor" : "#55CF24",
                     "badgeText" : "GT1 Results",
                     "messages" : [
-                        "1. Stich | 2. Osemwegie -0.802 | 3. Barraclough -2.225 | 4. White -16.354 | 5. Simmons -17.560"
+                        "1. Stich   2. Osemwegie -0.802   3. Barraclough -2.225   4. White -16.354   5. Simmons -17.560"
                     ]
                 }
             ]
