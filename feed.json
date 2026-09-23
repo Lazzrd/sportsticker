@@ -224,5 +224,21 @@
                 }
             ]
         ]
+    },
+    {
+        "topic" : "BT Visuals",
+        "items" : [
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#1E1E1E",
+                    "badgeText" : "BT Visuals",
+                    "messages" : [
+                        "BT VISUALS, High Quality, Cheap Prices. Contact DefectiveCPU on Discord to get high quality iRacing photos today. Proud partner of FTN Broadcasting.",
+                        "Use code BTVISUALS at Wendy's for 27¢ off your next Biggie Bag. Only applicable at participating Wendy's locations. (None)"
+                    ]
+                }
+            ]
+        ]
     }
 ]
