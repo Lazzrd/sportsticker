@@ -727,7 +727,7 @@ angular.module('sportsTicker', ['ngSanitize'])
                  */
                 function recalcMq() {
                     if (Modernizr.mq('(min-width: 1200px)')) {
-                        tmcWidth = '1100px';
+                        tmcWidth = '900px';
                         scoreContainerMinWidth = '160px';
                         scoreContainerMaxWidth = '245px';
                         scrollSpeedFactor = scope.scrollSpeedFactor;
