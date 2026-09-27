@@ -93,7 +93,7 @@ angular.module('sportsTicker', ['ngSanitize'])
 
                     if(scope.feed) {
                         var itemsRemaining = scope.feed.slice(scope.currentTopic, scope.feed.length);
-                        var topicsListLength = 12;
+                        var topicsListLength = 7;
                         var i = 0;
 
                         //if itemsRemaining < topicsListLength, wrap back around to beginning of list and pad
@@ -727,7 +727,7 @@ angular.module('sportsTicker', ['ngSanitize'])
                  */
                 function recalcMq() {
                     if (Modernizr.mq('(min-width: 1200px)')) {
-                        tmcWidth = '900px';
+                        tmcWidth = '1100px';
                         scoreContainerMinWidth = '160px';
                         scoreContainerMaxWidth = '245px';
                         scrollSpeedFactor = scope.scrollSpeedFactor;
