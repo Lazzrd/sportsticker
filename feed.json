@@ -6,7 +6,7 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "You're watching the iRacing GTE Sprint Series on FTN",
+                        "You're watching the iRacing Proto/GT Series on FTN",
                         "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
                     ]
                 }
@@ -81,7 +81,7 @@
                     "badgeColor" : "#29A302",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Veldhuizen | 2. Albrecht -2.499 | 3. Dunbar -17.079 | 4. Warde -22.400 | 5. Walker -32.966 | 6. Boissier -37.523 | 7. La Fisca -47.357 | 8. Saunders -54.361 | 9. Franganillo -54.442 | 10. Zácek -58.457"
+                        "1. Adams | 2. Veldhuizen -1.291 | 3. Streitemberger -8.678 | 4. Matthews -25.749 | 5. Colucci -33.377 | 6. Spitzmüller -43.951 | 7. Santana -46.876 | 8. Savolainen -53.202 | 9. Dzierżanowski -57.168 | 10. Khalis -58.578"
                     ]
                 }
             ]
@@ -195,7 +195,6 @@
                     "badgeColor" : "#F6C607",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 3: Hockenheimring Baden-Württemberg",
                         "Week 4: Nürburgring Nordschleife (Industriefahrten)",
                         "Week 5: Circuit de Spa-Francorchamps (Endurance)",
                         "Week 6: Road America",
