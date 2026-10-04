@@ -81,7 +81,7 @@
                     "badgeColor" : "#29A302",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Adams | 2. Veldhuizen -1.291 | 3. Streitemberger -8.678 | 4. Matthews -25.749 | 5. Colucci -33.377 | 6. Spitzmüller -43.951 | 7. Santana -46.876 | 8. Savolainen -53.202 | 9. Dzierżanowski -57.168 | 10. Khalis -58.578"
+                        "1. Adams | 2. Veldhuizen -1.291 | 3. Streitemberger -8.678 | 4. Matthews -25.749 | 5. Colucci -33.377 | 6. Spiczmüller -43.951 | 7. Santana -46.876 | 8. Savolainen -53.202 | 9. Dzierżanowski -57.168 | 10. Khalis -58.578"
                     ]
                 }
             ]
@@ -105,6 +105,18 @@
                     "badgeText" : "Results",
                     "messages" : [
                         "1. Conklin | 2. Thurston -0.397 | 3. Schaffer -0.521 | 4. Armstrong -0.690 | 5. Walker -0.888 | 6. Forbes Jr. -0.975 | 7. Thompson -1.114 | 8. Donohue -1.119 | 9. Gueci -1.119 | 10. Page -2.524"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#FD007F",
+                    "badgeText" : "Points",
+                    "messages" : [
+                        "CHASE | 1. Walker +99 | 2. Mosteller +96 | 3. Wilkerson +84 | 4. Schaffer +73 | 5. Thurston +69 | 6. Page +64 | 7. Conklin +56 | 8. Benton +42 | 9. Frisch +40 | 10. Donohue +24",
+                        "WILDCARD | 11. Hancock +1 | 12. Armstrong (Highest Winner Outside of T10)",
+                        "CUTLINE | 13. Shaver -11 | 14. Gueci -13"
                     ]
                 }
             ]
