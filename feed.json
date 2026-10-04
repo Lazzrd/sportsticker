@@ -104,19 +104,7 @@
                     "badgeColor" : "#6A15D1",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Armstrong | 2. Mosteller -6.244 | 3. Page -16.045 | 4. Thurston -25.323 | 5. Walker -31.087 | 6. Schaffer -36.042 | 7. Frisch -40.129 | 8. Wilkerson -1:03.590 | 9. Benton -1:14.065 | 10. Blackwell -1"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#FD007F",
-                    "badgeText" : "Points",
-                    "messages" : [
-                        "CHASE | 1. Mosteller +108 | 2. Walker +105 | 3. Wilkerson +103 | 4. Page +76 | 5. Schaffer +72 | 6. Thurston +63 | 7. Frisch +59 | 8. Benton +57 | 9. Conklin +44 | 10. Shaver +13",
-                        "WILDCARD | 11. Gregory +7 | 12. Armstrong (Highest Winner Outside of T10)",
-                        "CUTLINE | 13. Donohue -7 | 14. Gueci -9"
+                        "1. Conklin | 2. Thurston -0.397 | 3. Schaffer -0.521 | 4. Armstrong -0.690 | 5. Walker -0.888 | 6. Forbes Jr. -0.975 | 7. Thompson -1.114 | 8. Donohue -1.119 | 9. Gueci -1.119 | 10. Page -2.524"
                     ]
                 }
             ]
@@ -139,7 +127,7 @@
                     "badgeColor" : "#2608F1",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Azbell | 2. Clarino -0.084 | 3. Kallhoff -0.182 | 4. Chandler -0.252 | 5. Hunsicker -0.290 | 6. Drucker -0.329 | 7. Hatch -0.344 | 8. Weeks -0.422 | 9. Miller -0.581 | 10. Coke -0.648"
+                        "1. Weeks | 2. Donohue -1.967 | 3. Chandler -2.095 | 4. White -2.301 | 5. Koontz -4.132 | 6. Drucker -4.447 | 7. Thurston -5.024 | 8. Tigner -10.365 | 9. Benton -12.708 | 10. Drake -12.810"
                     ]
                 }
             ]
@@ -162,7 +150,7 @@
                     "badgeColor" : "#FD131E",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Bryan Wiggins | 2. Saccocci -0.362 | 3. Partridge -0.463 | 4. Pressey -0.599 | 5. Cope -0.820 | 6. Gracey -2 | 7. Defore -2 | 8. Kurdziel -4 | 9. Crumley -7 | 10. Mitchell OUT"
+                        "1. Pressey | 2. Blackwell -1.147 | 3. Kurdziel -2.819 | 4. Partridge -19.804 | 5. Lansdell -1 | 6. Bryan Wiggins -1 | 7. Gracey -1 | 8. Gentry -1 | 9. Freer -1 | 10. Robert Wiggins -1"
                     ]
                 }
             ],
@@ -172,7 +160,7 @@
                     "badgeColor" : "#0151F2",
                     "badgeText" : "Points",
                     "messages" : [
-                        "1. Saccocci 207 | 2. Pressey 187 (-20) | 3. Partridge 186 (-21) | 4. Mitchell 184 (-23) | 5. Gracey 182 (-26) | 6. Crumley 181 (-26) | 7. Defore 179 (-28) | 8. Lansdell 179 (-28) | 9. Robert Wiggins 178 (-29) | 10. Bryan Wiggins 176 (-31)"
+                        "1. Pressey 280 | 2. Saccocci 280 | 3. Partridge 269 (-11) | 4. Bryan Wiggins 266 (-14) | 5. Gracey 258 (-22) | 6. Lansdell 251 (-29) | 7. Crumley 246 (-34) | 8. Kurdziel 245 (-35) | 9. Robert Wiggins 245 (-35) | 10. Defore 243 (-37)"
                     ]
                 }
             ]
