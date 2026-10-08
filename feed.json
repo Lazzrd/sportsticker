@@ -30,7 +30,7 @@
                     "badgeColor" : "#292DDA",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Lane | 2. Patton -2.052 | 3. Terebuch -2.260 | 4. Bean -3.218 | 5. McFarland -3.505 | 6. Kim -3.688 | 7. Brock Potter -3.763 | 8. Smith -3.953 | 9. Fyfe -4.570 | 10. Trego -4.732"
+                        "1. Thurston | 2. Wetmore -0.979 | 3. Ward -2.679 | 4. Lane -2.885 | 5. Debaro -3.560 | 6. Fyfe -3.765 | 7. Patton -3.821 | 8. Trego -5.326 | 9. Matz -6.057 | 10. Davis -7.947"
                     ]
                 }
             ],
@@ -40,7 +40,7 @@
                     "badgeColor" : "#DB0103",
                     "badgeText" : "Points",
                     "messages" : [
-                            "1. Lane 2332 | 2. Terebuch 2284 (-48) | 3. DeBaro 2235 (-97) | 4. Bean 2220 (-112) | 5. Fyfe 2204 (-128) | 6. Smith 2199 (-133) | 7. Campbell 2196 (-135) | 8. Trego 2169 (-163) | 9. Nolan Potter 2168 (-164) | 10. Patton 2167 (-165) | 11. Kim 2164 (-168) | 12. Nieto 2157 (-175) | 13. Davis 2155 (-177) | 14. Ward 2155 (-177) | 15. Brock Potter 2148 (-184) | 16. Robert Richardson 2129 (-203)"
+                            "1. Lane 2374 | 2. Terebuch 2310 (-64) | 3. DeBaro 2283 (-91) | 4. Fyfe 2249 (-125) | 5. Bean 2247 (-127) | 6. Smith 2236 (-138) | 7. Campbell 2220 (-154) | 8. Patton 2210 (-164) | 9. Nolan Potter 2208 (-166) | 10. Ward 2207 (-167) | 11. Trego 2206 (-168) | 12. Davis 2190 (-184) | 13. Kim 2186 (-188) | 14. Brock Potter 2171 (-203) | 15. Nieto 2167 (-207) | 16. Robert Richardson 2157 (-217)"
                     ]
                 }
             ]
@@ -63,7 +63,6 @@
                     "badgeColor" : "#0C280D",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 4: Circuit de Barcelona Catalunya (Historic)",
                         "Week 5: Circuit des 24 Heures du Mans",
                         "Week 6: Daytona International Speedway Road Course",
                         "Week 7: Autodromo Nazionale Monza",
@@ -213,7 +212,7 @@
                     "badgeColor" : "#3250C4",
                     "badgeText" : "P2 Results",
                     "messages" : [
-                        "1. Benson | 2. Kragtwijk -1.129 | 3. Lund -29.785 | 4. Guthrie -37.789 | 5. Coleman -40.039"
+                        "1. Souza | 2. Lund -4.659 | 3. Testa -17.577 | 4. Jäkel -62.882 | 5. Rolko -71.900  "
                     ]
                 }
             ],
@@ -223,7 +222,7 @@
                     "badgeColor" : "#55CF24",
                     "badgeText" : "GT1 Results",
                     "messages" : [
-                        "1. Khoury | 2. Clawson -18.720 | 3. Baião -25.572 | 4. White -28.122 | 5. Kosik -5"
+                        "1. Barraclough | 2. White -26.280 | 3. Baião -54.092 | 4. Deitch -1"
                     ]
                 }
             ],
@@ -233,7 +232,7 @@
                     "badgeColor" : "#F3A024",
                     "badgeText" : "GT2 Results",
                     "messages" : [
-                        "1. Simmons | 2. Read -6 | 3. Fortunatti OUT"
+                        "1. Zelenka | 2. Simmons -1.970 | 3. Hammer -1"
                     ]
                 }
             ]
