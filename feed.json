@@ -4,12 +4,25 @@
         "items" : [
             [
                 {
-                    "type" : "full",
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#204085",
+                    "badgeText" : "iRacing",
                     "messages" : [
                         "The Lamborghini Temerario GT3 is coming to iRacing in 2027 S1",
                         "Circuit de la Sarthe will have an additional layout added in 2027 S1, the highly requested Bugatti Circuit",
                         "Circuit Paul Ricard is confirmed for 2027 S1",
                         "Winchester Speedway is confirmed for 2027 S1"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#0028FF",
+                    "badgeText" : "FTN",
+                    "messages" : [
+                        "FTN announces a brand new partnership with the Car of Yesterday league, a league specializing in using NASCAR's Gen 5 car, also known as the CoT (Car of Tomorrow)",
+                        "The first race broadcasted for the league will be the Season 2 Fun Run, a non-points paying race hosted at the 2008 Daytona configuration. The CoT will run over 1000 horsepower."
                     ]
                 }
             ]
