@@ -1,5 +1,21 @@
 [
     {
+        "topic" : "THE LEAD",
+        "items" : [
+            [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "The Lamborghini Temerario GT3 is coming to iRacing in 2027 S1",
+                        "Circuit de la Sarthe will have an additional layout added in 2027 S1, the highly requested Bugatti Circuit",
+                        "Circuit Paul Ricard is confirmed for 2027 S1",
+                        "Winchester Speedway is confirmed for 2027 S1"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
         "topic" : "FTN",
         "items" : [
             [
