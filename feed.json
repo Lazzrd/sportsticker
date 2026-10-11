@@ -37,7 +37,8 @@
                     "type" : "full",
                     "messages" : [
                         "You're watching the iRacing Proto/GT Series on FTN",
-                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
+                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel",
+                        "Shoutout to Brandon White for helping fund today's broadcast"
                     ]
                 }
             ]
@@ -136,18 +137,6 @@
                         "1. Conklin | 2. Thurston -5.752 | 3. Page -6.621 | 4. Mosteller -8.725 | 5. Maggio -8.926 | 6. Walker -10.992 | 7. Dahari -11.259 | 8. Benton -14.820 | 9. Blackwell -23.643 | 10. Gueci -25.068"
                     ]
                 }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#FD007F",
-                    "badgeText" : "Points",
-                    "messages" : [
-                        "CHASE | 1. Walker +99 | 2. Mosteller +96 | 3. Wilkerson +84 | 4. Schaffer +73 | 5. Thurston +69 | 6. Page +64 | 7. Conklin +56 | 8. Benton +42 | 9. Frisch +40 | 10. Donohue +24",
-                        "WILDCARD | 11. Hancock +1 | 12. Armstrong (Highest Winner Outside of T10)",
-                        "CUTLINE | 13. Shaver -11 | 14. Gueci -13"
-                    ]
-                }
             ]
         ]
     },
@@ -192,16 +181,6 @@
                     "badgeText" : "Results",
                     "messages" : [
                         "1. Saccocci | 2. Crump -0.064 | 3. Bitler -0.212 | 4. Gracey -3.930 | 5. Freer -4.243 | 6. Partridge -4.568 | 7. Norris -17.179 | 8. Bryan Wiggins -20.990 | 9. Lansdell -21.183 | 10. Robert Wiggins -10"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#0151F2",
-                    "badgeText" : "Points",
-                    "messages" : [
-                        "1. Pressey 280 | 2. Saccocci 280 | 3. Partridge 269 (-11) | 4. Bryan Wiggins 266 (-14) | 5. Gracey 258 (-22) | 6. Lansdell 251 (-29) | 7. Crumley 246 (-34) | 8. Kurdziel 245 (-35) | 9. Robert Wiggins 245 (-35) | 10. Defore 243 (-37)"
                     ]
                 }
             ]
