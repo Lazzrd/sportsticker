@@ -1,35 +1,5 @@
 [
     {
-        "topic" : "THE LEAD",
-        "items" : [
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#204085",
-                    "badgeText" : "iRacing",
-                    "messages" : [
-                        "The Lamborghini Temerario GT3 is coming to iRacing in 2027 S1",
-                        "Circuit de la Sarthe will have an additional layout added in 2027 S1, the highly requested Bugatti Circuit",
-                        "Circuit Paul Ricard is confirmed for 2027 S1",
-                        "Winchester Speedway is confirmed for 2027 S1"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#0028FF",
-                    "badgeText" : "FTN",
-                    "messages" : [
-                        "FTN announces a brand new partnership with the Car of Yesterday league, a league specializing in using NASCAR's Gen 5 car, also known as the CoT (Car of Tomorrow)",
-                        "The first race broadcasted for the league will be the Season 2 Fun Run, a non-points paying race hosted at the 2008 Daytona configuration. The CoT will run over 1000 horsepower, and the event takes place on October 20th, 2026",
-                        "Join the Discord today at https://discord.gg/zeZHcdPPu"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
         "topic" : "FTN",
         "items" : [
             [
@@ -37,8 +7,7 @@
                     "type" : "full",
                     "messages" : [
                         "You're watching the iRacing Proto/GT Series on FTN",
-                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel",
-                        "Shoutout to Brandon White for helping fund today's broadcast"
+                        "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
                     ]
                 }
             ]
@@ -61,7 +30,7 @@
                     "badgeColor" : "#292DDA",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Thurston | 2. Wetmore -0.979 | 3. Ward -2.679 | 4. Lane -2.885 | 5. Debaro -3.560 | 6. Fyfe -3.765 | 7. Patton -3.821 | 8. Trego -5.326 | 9. Matz -6.057 | 10. Davis -7.947"
+                        "1. Fyfe | 2. Thurston -0.112 | 3. Lane -0.156 | 4. Patton -0.747 | 5. Debaro -0.874 | 6. Terebuch -1.095 | 7. Brock Potter -1.186 | 8. Trego -1.593 | 9. Kardules -1.678 | 10. Campbell -2.021"
                     ]
                 }
             ],
@@ -94,7 +63,6 @@
                     "badgeColor" : "#0C280D",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 5: Circuit des 24 Heures du Mans",
                         "Week 6: Daytona International Speedway Road Course",
                         "Week 7: Autodromo Nazionale Monza",
                         "Week 8: Fuji International Speedway (No Chicane)",
@@ -111,7 +79,7 @@
                     "badgeColor" : "#29A302",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Adams | 2. Veldhuizen -1.291 | 3. Streitemberger -8.678 | 4. Matthews -25.749 | 5. Colucci -33.377 | 6. Spiczmüller -43.951 | 7. Santana -46.876 | 8. Savolainen -53.202 | 9. Dzierżanowski -57.168 | 10. Khalis -58.578"
+                        "1. Albrecht | 2. Spiczmüller -15.116 | 3. Kun -15.717 | 4. Bakker -19.450 | 5. Franganillo -19.758 | 6. Cargnelutti -26.138 | 7. Novak -28.053 | 8. Wisloff -31.037 | 9. Puskaric -35.155 | 10. La Fisca -37.394"
                     ]
                 }
             ]
@@ -127,7 +95,7 @@
                         "Live on FTN, Thursdays at 9:00 PM ET"
                     ]
                 }
-            ],  
+            ],
             [
                 {
                     "type" : "full-with-badge",
@@ -135,6 +103,18 @@
                     "badgeText" : "Results",
                     "messages" : [
                         "1. Conklin | 2. Thurston -5.752 | 3. Page -6.621 | 4. Mosteller -8.725 | 5. Maggio -8.926 | 6. Walker -10.992 | 7. Dahari -11.259 | 8. Benton -14.820 | 9. Blackwell -23.643 | 10. Gueci -25.068"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#FD007F",
+                    "badgeText" : "Points",
+                    "messages" : [
+                        "CHASE | 1. Mosteller +111 | 2. Walker +109 | 3. Thurston +94 | 4. Conklin +88 | 5. Wilkerson +86 | 6. Page +83 | 7. Schaffer +71 | 8 Benton +59 | 9. Frisch +55 | 10. Hancock +4",
+                        "WILDCARD |11. Armstrong (Highest Winner Outside of T10) | 12. Gueci +3",
+                        "CUTLINE | 13. Shaver -3 | 14. Donogue -5"
                     ]
                 }
             ]
@@ -220,7 +200,7 @@
                     "badgeColor" : "#3250C4",
                     "badgeText" : "P2 Results",
                     "messages" : [
-                        "1. Souza | 2. Lund -4.659 | 3. Testa -17.577 | 4. Jäkel -62.882 | 5. Rolko -71.900  "
+                        "1. Martinez | 2. Gonzalez -0.523 | 3. Lund -7.703 | 4. Christopher Seniow -21.043 | 5. Prokopov -31.345"
                     ]
                 }
             ],
@@ -230,7 +210,7 @@
                     "badgeColor" : "#55CF24",
                     "badgeText" : "GT1 Results",
                     "messages" : [
-                        "1. Barraclough | 2. White -26.280 | 3. Baião -54.092 | 4. Deitch -1"
+                        "1. Eriksson | 2. Barraclough -8.405 | 3. Leonhardt -11.671 | 4. Clawson -18.102 | 5. Coriglie -29.765"
                     ]
                 }
             ],
@@ -240,7 +220,7 @@
                     "badgeColor" : "#F3A024",
                     "badgeText" : "GT2 Results",
                     "messages" : [
-                        "1. Zelenka | 2. Simmons -1.970 | 3. Hammer -1"
+                        "1. Klein | 2. Radusin -15.476 | 3. Raffa -:23.874 | 4. Read -27.243 | 5. Condouret -1:06.465"
                     ]
                 }
             ]
