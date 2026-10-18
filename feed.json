@@ -14,6 +14,31 @@
         ]
     },
     {
+        "topic" : "CoY",
+        "items" : [
+             [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Live on FTN, Tuesdays at 8:25 PM ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#0066B3",
+                    "badgeText" : "Upcoming Events",
+                    "messages" : [
+                        "Season 2 Fun Run @ Daytona International Speedway",
+                        "The Car of Yesterday league will run the Car of Tomorrow at Dyatona International Speedway, with an unrestricted CoT. Feel free to join us!",
+                        "https://discord.gg/zeZHcdPPu"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
         "topic" : "Integrity",
         "items" : [
              [
@@ -79,7 +104,7 @@
                     "badgeColor" : "#29A302",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Albrecht | 2. Spiczmüller -15.116 | 3. Kun -15.717 | 4. Bakker -19.450 | 5. Franganillo -19.758 | 6. Cargnelutti -26.138 | 7. Novak -28.053 | 8. Wisloff -31.037 | 9. Puskaric -35.155 | 10. La Fisca -37.394"
+                        "1. Bakker | 2. Le Pezennec -0.891 | 3. Mordillat -6.132 | 4. Tanfara -9.956 | 5. Van Der Ven -12.953 | 6. Dorokhin -15.545 | 7. D'Adda -17.782 | 8. Santana -27.072 | 9. Van Bommel -32.663 | 10. Oudbier -34.067"
                     ]
                 }
             ]
@@ -102,19 +127,7 @@
                     "badgeColor" : "#6A15D1",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Conklin | 2. Thurston -5.752 | 3. Page -6.621 | 4. Mosteller -8.725 | 5. Maggio -8.926 | 6. Walker -10.992 | 7. Dahari -11.259 | 8. Benton -14.820 | 9. Blackwell -23.643 | 10. Gueci -25.068"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#FD007F",
-                    "badgeText" : "Points",
-                    "messages" : [
-                        "CHASE | 1. Mosteller +111 | 2. Walker +109 | 3. Thurston +94 | 4. Conklin +88 | 5. Wilkerson +86 | 6. Page +83 | 7. Schaffer +71 | 8 Benton +59 | 9. Frisch +55 | 10. Hancock +4",
-                        "WILDCARD |11. Armstrong (Highest Winner Outside of T10) | 12. Gueci +3",
-                        "CUTLINE | 13. Shaver -3 | 14. Donogue -5"
+                        "1. Walker | 2. Baker -0.033 | 3. Benton -0.077 | 4. Mosteller -0.080 | 5. Schaffer -0.081 | 6. Wilkerson -0.158 | 7. Thurston -0.162 | 8. DeAngelis -0.200 | 9. Maggio -0.531 | 10. Serrano -1.272"
                     ]
                 }
             ]
@@ -137,7 +150,7 @@
                     "badgeColor" : "#2608F1",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Thurston | 2. Drucker -2.176 | 3. White -2.479 | 4. Donohue -2.596 | 5. Drake - 2.643 | 6. Chandler -4.254 | 7. Tigner -5.423 | 8. Weeks -6.715 | 9. Schaffer -6.847 | 10. Koontz -12.918"
+                        "1. Koontz | 2. Kallhoff -0.605 | 3. White -0.699 | 4. Spencer-Walt -1.376 | 5. Thurston -1.800 | 6. Benton -1.983 | 7. Hunsicker -3.653 | 8. Tigner -3.773 | 9. James -3.938 | 10. Drake -4.226"
                     ]
                 }
             ]
@@ -160,10 +173,21 @@
                     "badgeColor" : "#FD131E",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Saccocci | 2. Crump -0.064 | 3. Bitler -0.212 | 4. Gracey -3.930 | 5. Freer -4.243 | 6. Partridge -4.568 | 7. Norris -17.179 | 8. Bryan Wiggins -20.990 | 9. Lansdell -21.183 | 10. Robert Wiggins -10"
+                        "1. Pressey | 2. Gracey -1.521 | 3. Partridge -2.444 | 4. Saccocci -2.803 | 5. Kurdziel -7.696 | 6. Gentry -10.013 | 7. Bitler -2 | 8. Bryan Wiggins -3 | 9. English -3 | 10. Norris -13"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#0151F2",
+                    "badgeText" : "Points",
+                    "messages" : [
+                        "1. Saccocci 369 | 2. Pressey 360 (-9) | 3. Gracey 341 (-28) | 4. Bryan Wiggins 340 (-29) | 5. Partridge 338 (-31) | 6. Kurdziel 318 (-51) | 7. Bitler 310 (-59) | 8. Lansdell 287 (-82) | 9. Robert Wiggins 279 (-90) | 10. Crumley 278 (-91)"
                     ]
                 }
             ]
+        ]
         ]
     },
     {
@@ -183,7 +207,6 @@
                     "badgeColor" : "#F6C607",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 5: Circuit de Spa-Francorchamps (Endurance)",
                         "Week 6: Road America",
                         "Week 7: Autodromo Nazionale Monza",
                         "Week 8: Circuito de Navarra (Speed Circuit)",
