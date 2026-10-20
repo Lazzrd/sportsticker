@@ -6,7 +6,7 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "You're watching the iRacing GTE Sprint Series on FTN",
+                        "You're watching the iRacing Car of Yesterday League on FTN",
                         "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
                     ]
                 }
@@ -134,6 +134,38 @@
         ]
     },
     {
+        "topic" : "VRA",
+        "items" : [
+             [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Live on FTN, Saturdays at 11:00 AM ET"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#D81A20",
+                    "badgeText" : "Schedule",
+                    "messages" : [
+                        "Race 1: Daytona International Speedway Road Course (2.4 hours)",
+                        "Race 2: Sebring International Raceway (2 hours)",
+                        "Race 3: Long Beach Street Circuit (1 hour)",
+                        "Race 4: Laguna Seca (1 hour)",
+                        "Race 5: Mid-Ohio (1 hour - LMP2, GTD PRO, GTD only)",
+                        "Race 6: Watkins Glen (2 hours)",
+                        "Race 7: Road America (1 hour - will not be broadcasted on FTN)",
+                        "Race 8: Virginia International Raceway (1 hour - GTD PRO & GTD only)",
+                        "Race 9: Indianapolis Motor Speedway (2 hours)",
+                        "Finale: Road America (2 hours)"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
         "topic" : "SNT",
         "items" : [
             [
@@ -190,6 +222,33 @@
         ]
     },
     {
+        "topic" : "WECHS",
+        "items" : [
+             [
+                {
+                    "type" : "full",
+                    "messages" : [
+                        "Live on FTN, Sundays at 1:00 PM ET every other week"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#184765",
+                    "badgeText" : "Schedule",
+                    "messages" : [
+                        "Race 1: Circuit de Spa-Francorchamps (1h 30m)",
+                        "Race 2: Fuji International Speedway (1h 30m)",
+                        "Race 3: Imola (1 Hour)",
+                        "Race 4: Nürburgring Grand-Prix-Strecke (45 minutes)",
+                        "Finale: Circuit des 24 Heures du Mans (2.4 hours)"
+                    ]
+                }
+            ]
+        ]
+    },
+    {
         "topic" : "Proto-GT",
         "items" : [
             [
@@ -222,7 +281,7 @@
                     "badgeColor" : "#3250C4",
                     "badgeText" : "P2 Results",
                     "messages" : [
-                        "1. Martinez | 2. Gonzalez -0.523 | 3. Lund -7.703 | 4. Christopher Seniow -21.043 | 5. Prokopov -31.345"
+                        "1. Kragtwijk | 2. Benson | 3. Christopher Seniow | 4. D'Adda | 5. Lund"
                     ]
                 }
             ],
@@ -232,7 +291,7 @@
                     "badgeColor" : "#55CF24",
                     "badgeText" : "GT1 Results",
                     "messages" : [
-                        "1. Eriksson | 2. Barraclough -8.405 | 3. Leonhardt -11.671 | 4. Clawson -18.102 | 5. Coriglie -29.765"
+                        "1. Simmons | 2. Baião | 3. Al Amry | 4. Kortes | 5. Lijnsvelt"
                     ]
                 }
             ],
@@ -242,7 +301,7 @@
                     "badgeColor" : "#F3A024",
                     "badgeText" : "GT2 Results",
                     "messages" : [
-                        "1. Klein | 2. Radusin -15.476 | 3. Raffa -:23.874 | 4. Read -27.243 | 5. Condouret -1:06.465"
+                        "1. Stich | 2. Coriglie | 3. Juul | 4. Anscombe"
                     ]
                 }
             ]
