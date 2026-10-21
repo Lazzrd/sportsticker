@@ -28,44 +28,9 @@
                 {
                     "type" : "full-with-badge",
                     "badgeColor" : "#0066B3",
-                    "badgeText" : "Upcoming Events",
-                    "messages" : [
-                        "Season 2 Fun Run @ Daytona International Speedway",
-                        "The Car of Yesterday league will run the Car of Tomorrow at Dyatona International Speedway, with an unrestricted CoT. Feel free to join us!",
-                        "https://discord.gg/zeZHcdPPu"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "Integrity",
-        "items" : [
-             [
-                {
-                    "type" : "full",
-                    "messages" : [
-                        "Live on FTN, Tuesdays at 9:00 PM ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#292DDA",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Fyfe | 2. Thurston -0.112 | 3. Lane -0.156 | 4. Patton -0.747 | 5. Debaro -0.874 | 6. Terebuch -1.095 | 7. Brock Potter -1.186 | 8. Trego -1.593 | 9. Kardules -1.678 | 10. Campbell -2.021"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#DB0103",
-                    "badgeText" : "Points",
-                    "messages" : [
-                            "1. Lane 2432 | 2. Terebuch 2353 (-79) | 3. DeBaro 2332 (-100) | 4. Fyfe 2309 (-123) | 5. Smith 2271 (-161) | 6. Bean 2269 (-163) | 7. Patton 2263 (-169) | 8. Campbell 2256 (-176) | 9. Trego 2249 (-183) | 10. Nolan Potter 2238 (-194) | 11. Ward 2232 (-200) | 12. Davis 2219 (-213) | 13. Kim 2213 (-219) | 14. Brock Potter 2211 (-221) | 15. Nieto 2208 (-224) | 16. Robert Richardson 2177 (-255)"
+                    "1. Kendall | 2. Adams -0.900 | 3. Passen -0.914 | 4. Hurley -2.979 | 5. Sweeney -12.305 | 6. Caniano -19.934 | 7. Robillard -21.701 | 8. Roberts OUT | 9. Buchanan OUT | 10. Vest OUT"
                     ]
                 }
             ]
@@ -88,7 +53,6 @@
                     "badgeColor" : "#0C280D",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 6: Daytona International Speedway Road Course",
                         "Week 7: Autodromo Nazionale Monza",
                         "Week 8: Fuji International Speedway (No Chicane)",
                         "Week 9: Road America",
