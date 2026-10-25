@@ -84,7 +84,7 @@
                         "Live on FTN, Thursdays at 9:00 PM ET"
                     ]
                 }
-            ],
+            ],  
             [
                 {
                     "type" : "full-with-badge",
@@ -94,7 +94,7 @@
                         "1. Mosteller | 2. Conklin -0.517 | 3. Frisch -1.340 | 4. Walker -4.116 | 5. Benton -4.843 | 6. Maggio -5.062 | 7. Page -5.841 | 8. Arevalo -6.559 | 9. Gregory -8.870 | 10. Thurston -9.526"
                     ]
                 }
-            ],
+            ],  
             [
                 {
                     "type" : "full-with-badge",
@@ -104,8 +104,9 @@
                         "1. Mosteller | 2. Walker =10 | 3. Thurston -15 | 4. Wilkerson -20 | 5. Conklin -25 | 6. Belton -30 | 7. Schaffer -35 | 8. Page -40 | 9. Frisch -45 | 10. Hancock -50 | 11. Armstrong -70 | 12. Gregory -70"
                     ]
                 }
+            ]
         ]
-    }
+    },
     {
         "topic" : "SNT",
         "items" : [
