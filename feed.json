@@ -68,7 +68,7 @@
                     "badgeColor" : "#29A302",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Bakker | 2. Le Pezennec -0.891 | 3. Mordillat -6.132 | 4. Tanfara -9.956 | 5. Van Der Ven -12.953 | 6. Dorokhin -15.545 | 7. D'Adda -17.782 | 8. Santana -27.072 | 9. Van Bommel -32.663 | 10. Oudbier -34.067"
+                        "1. Cubides | 2. Rodriguez -0.048 | 3. Villagomez -0.057 | 4. Streitemberger -6.869 | 5. Benson -7.192 | 6. Bakker -10.082 | 7. Ferichola -15.671 | 8. Runza -15.734 | 9. Turcan -18.232 | 10. Santana -18.324"
                     ]
                 }
             ]
@@ -91,42 +91,19 @@
                     "badgeColor" : "#6A15D1",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Walker | 2. Baker -0.033 | 3. Benton -0.077 | 4. Mosteller -0.080 | 5. Schaffer -0.081 | 6. Wilkerson -0.158 | 7. Thurston -0.162 | 8. DeAngelis -0.200 | 9. Maggio -0.531 | 10. Serrano -1.272"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "VRA",
-        "items" : [
-             [
-                {
-                    "type" : "full",
-                    "messages" : [
-                        "Live on FTN, Saturdays at 11:00 AM ET"
+                        "1. Mosteller | 2. Conklin -0.517 | 3. Frisch -1.340 | 4. Walker -4.116 | 5. Benton -4.843 | 6. Maggio -5.062 | 7. Page -5.841 | 8. Arevalo -6.559 | 9. Gregory -8.870 | 10. Thurston -9.526"
                     ]
                 }
             ],
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#D81A20",
-                    "badgeText" : "Schedule",
+                    "badgeColor" : "#FD007F",
+                    "badgeText" : "Points",
                     "messages" : [
-                        "Race 1: Daytona International Speedway Road Course (2.4 hours)",
-                        "Race 2: Sebring International Raceway (2 hours)",
-                        "Race 3: Long Beach Street Circuit (1 hour)",
-                        "Race 4: Laguna Seca (1 hour)",
-                        "Race 5: Mid-Ohio (1 hour - LMP2, GTD PRO, GTD only)",
-                        "Race 6: Watkins Glen (2 hours)",
-                        "Race 7: Road America (1 hour - will not be broadcasted on FTN)",
-                        "Race 8: Virginia International Raceway (1 hour - GTD PRO & GTD only)",
-                        "Race 9: Indianapolis Motor Speedway (2 hours)",
-                        "Finale: Road America (2 hours)"
+                        "1. Mosteller | 2. Walker =10 | 3. Thurston -15 | 4. Wilkerson -20 | 5. Conklin -25 | 6. Belton -30 | 7. Schaffer -35 | 8. Page -40 | 9. Frisch -45 | 10. Hancock -50 | 11. Armstrong -70 | 12. Gregory -70"
                     ]
                 }
-            ]
         ]
     },
     {
@@ -146,7 +123,7 @@
                     "badgeColor" : "#2608F1",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Koontz | 2. Kallhoff -0.605 | 3. White -0.699 | 4. Spencer-Walt -1.376 | 5. Thurston -1.800 | 6. Benton -1.983 | 7. Hunsicker -3.653 | 8. Tigner -3.773 | 9. James -3.938 | 10. Drake -4.226"
+                        "1. Benton | 2. Drucker -0.481 | 3. Spencer-Walt -0.720 | 4. James -0.907 | 5. Thurston -2.107 | 6. Tigner -3.030 | 7. White -3.971 | 8. Combs -4.694 | 9. Kallhoff -4.774 | 10. Clarino -4.775"
                     ]
                 }
             ]
@@ -169,7 +146,7 @@
                     "badgeColor" : "#FD131E",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Pressey | 2. Gracey -1.521 | 3. Partridge -2.444 | 4. Saccocci -2.803 | 5. Kurdziel -7.696 | 6. Gentry -10.013 | 7. Bitler -2 | 8. Bryan Wiggins -3 | 9. English -3 | 10. Norris -13"
+                        "1. Pressey | 2. Gracey -0.504 | 3. Kurdziel -1.743 | 4. Saccocci -1.907 | 5. Partridge -2.672 | 6. Bryan Wiggins -4.047 | 7. Robert Wiggins -1 | 8. Bitler -3 | 9. Defore -4 | 10. Lansdell OUT"
                     ]
                 }
             ],
@@ -179,7 +156,7 @@
                     "badgeColor" : "#0151F2",
                     "badgeText" : "Points",
                     "messages" : [
-                        "1. Saccocci 369 | 2. Pressey 360 (-9) | 3. Gracey 341 (-28) | 4. Bryan Wiggins 340 (-29) | 5. Partridge 338 (-31) | 6. Kurdziel 318 (-51) | 7. Bitler 310 (-59) | 8. Lansdell 287 (-82) | 9. Robert Wiggins 279 (-90) | 10. Crumley 278 (-91)"
+                        "1. Saccocci 411 | 2. Pressey 410 (-1) | 3. Gracey 385 (-26) | 4. Bryan Wiggins 379 (-32) | 5. Partridge 378 (-33) | 6. Kurdziel 360 (-51) | 7. Bitler 346 (-65) | 8. Lansdell 322 (-89) | 9. Robert Wiggins 316 (-95) | 10. Mitchell 279 (-132)"
                     ]
                 }
             ]
@@ -192,7 +169,8 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "Live on FTN, Sundays at 1:00 PM ET every other week"
+                        "Live on FTN, Sundays at 1:00 PM ET every other week",
+                        "Spa-Francorchamps delayed to Nov. 1st, every other race retains their date."
                     ]
                 }
             ],
@@ -229,7 +207,6 @@
                     "badgeColor" : "#F6C607",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 6: Road America",
                         "Week 7: Autodromo Nazionale Monza",
                         "Week 8: Circuito de Navarra (Speed Circuit)",
                         "Week 9: Circuit de Barcelona Catalunya (Historic)",
