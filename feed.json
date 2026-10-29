@@ -6,31 +6,8 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "You're watching the iRacing Proto-GT Challenge on FTN",
+                        "You're watching the iRacing GTE Sprint Series on FTN",
                         "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
-                    ]
-                }
-            ]
-        ]
-    },
-    {
-        "topic" : "CoY",
-        "items" : [
-             [
-                {
-                    "type" : "full",
-                    "messages" : [
-                        "Live on FTN, Tuesdays at 8:25 PM ET"
-                    ]
-                }
-            ],
-            [
-                {
-                    "type" : "full-with-badge",
-                    "badgeColor" : "#0066B3",
-                    "badgeText" : "Results",
-                    "messages" : [
-                    "1. Kendall | 2. Adams -0.900 | 3. Passen -0.914 | 4. Hurley -2.979 | 5. Sweeney -12.305 | 6. Caniano -19.934 | 7. Robillard -21.701 | 8. Roberts OUT | 9. Buchanan OUT | 10. Vest OUT"
                     ]
                 }
             ]
@@ -53,7 +30,6 @@
                     "badgeColor" : "#0C280D",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 7: Autodromo Nazionale Monza",
                         "Week 8: Fuji International Speedway (No Chicane)",
                         "Week 9: Road America",
                         "Week 10: Circuit Gilles Villeneuve",
@@ -223,7 +199,7 @@
                     "badgeColor" : "#3250C4",
                     "badgeText" : "P2 Results",
                     "messages" : [
-                        "1. Kragtwijk | 2. Benson | 3. Christopher Seniow | 4. D'Adda | 5. Lund"
+                        "1. Dunbar | 2. Hamley -2.602 | 3. Smith -5.372 | 4. Collyar -10.327 | 5. Coleman -20.365"
                     ]
                 }
             ],
@@ -233,7 +209,7 @@
                     "badgeColor" : "#55CF24",
                     "badgeText" : "GT1 Results",
                     "messages" : [
-                        "1. Simmons | 2. Baião | 3. Al Amry | 4. Kortes | 5. Lijnsvelt"
+                        "1. Worton | 2. Bryce -12.187 | 3. Coriglie -19.063 | 4. Potter -32.648 | 5. Kelso -35.863"
                     ]
                 }
             ],
@@ -243,7 +219,7 @@
                     "badgeColor" : "#F3A024",
                     "badgeText" : "GT2 Results",
                     "messages" : [
-                        "1. Stich | 2. Coriglie | 3. Juul | 4. Anscombe"
+                        "1. Stich | 2. Simmons -9.183 | 3. Juul -16.568 | 4. Wheeler -1"
                     ]
                 }
             ]
