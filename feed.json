@@ -6,7 +6,7 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "You're watching the iRacing WEC Historic Series on FTN",
+                        "You're watching the iRacing Proto/GT Challenge on FTN",
                         "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
                     ]
                 }
@@ -152,6 +152,36 @@
                         "Finale: Circuit des 24 Heures du Mans (2.4 hours)"
                     ]
                 }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#D4241C",
+                    "badgeText" : "P1 Results",
+                    "messages" : [
+                            "1. Bikdar | 2. Manning -2.611 | 3. Lund -4.559 | 4. Castro -6.558"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#0568A9",
+                    "badgeText" : "P2 Results",
+                    "messages" : [
+                        "1. Justou | 2. Perry -0.676 | 3. Carroll -1 | 4. Tibor -1 | 5. Paiva -3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#F26402",
+                    "badgeText" : "GTE Results",
+                    "messages" : [
+                        "1. Wheeler | 2. Jennings -1.161 | 3. Roth -2.858 | 4. Zelst -3.736 | 5. Alea -3.934"
+                    ]
+                }
             ]
         ]
     },
@@ -172,7 +202,6 @@
                     "badgeColor" : "#F6C607",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 7: Autodromo Nazionale Monza",
                         "Week 8: Circuito de Navarra (Speed Circuit)",
                         "Week 9: Circuit de Barcelona Catalunya (Historic)",
                         "Week 10: Suzuka International Racing Course",
