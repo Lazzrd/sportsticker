@@ -20,7 +20,7 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "Live on FTN, Thursdays at 3 PM ET"
+                        "Live on FTN, Thursdays at 19:00 GMT"
                     ]
                 }
             ],  
@@ -207,7 +207,7 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "Live on FTN, Sundays at 3:45 PM ET"
+                        "Live on FTN, Sundays at 19:45 GMT"
                     ]
                 }
             ],
