@@ -6,7 +6,7 @@
                 {
                     "type" : "full",
                     "messages" : [
-                        "You're watching the iRacing Proto/GT Challenge on FTN",
+                        "You're watching the iRacing GTE Sprint on FTN",
                         "Make sure to like and subscribe if you enjoy the content you are seeing on the FTN YouTube channel"
                     ]
                 }
@@ -30,7 +30,6 @@
                     "badgeColor" : "#0C280D",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Week 8: Fuji International Speedway (No Chicane)",
                         "Week 9: Road America",
                         "Week 10: Circuit Gilles Villeneuve",
                         "Week 11: Suzuka International Racing Course",
