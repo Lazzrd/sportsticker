@@ -43,7 +43,7 @@
                     "badgeColor" : "#29A302",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Pigaev | 2. Drozdz -5.744 | 3. Pastuszka -11.552 | 4. Fedurin -14.776 | 5. Levine -17.072 | 6. Hellstein -24.371 | 7. Gracia Clemente -28.181 | 8. Kiss -31.651 | 9. Lunch -34.132 | 10. Pedret -40.494"
+                        "1. Terry | 2. Burley -27.302 | 3. Belda -35.100 | 4. Gonçalves =38.804 | 5. Mcdonald -41.094 | 6. Gonzalez Garcia -43.030 | 7. Raivio -1:00.418 | 8. Sandström -1:32.187 | 9. Ruzzante -1 | 10. Duboc -1"
                     ]
                 }
             ]
@@ -66,7 +66,7 @@
                     "badgeColor" : "#6A15D1",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Conklin | 2. Mosteller -1.683 | 3. Page -7.524 | 4. Malone -8.211 | 5. Benton -11.062 | 6. Walker -11.490 | 7. Frisch -12.610 | 8. Wilkerson -14.864 | 9. Dahari -18.955 | 10. Maggio -21.419"
+                        "1. Dahari | 2. Page -2.041 | 3. Wilkerson -2.571 | 4. Thurston -6.160 | 5. Mosteller -8.249 | 6. Frisch -11.140 | 7. Walker -12.386 | 8. Amrstrong -13.337 | 9. Benton -15.197 | 10. Rowe -19.843"
                     ]
                 }
             ],  
@@ -76,7 +76,7 @@
                     "badgeColor" : "#FD007F",
                     "badgeText" : "Points",
                     "messages" : [
-                        "1. Mosteller | 2. Conklin -17 | 3. Walker -24 | 4. Wilkerson -35 | 5. Benton -40 | 6. Thurston -41 | 7. Page -44 | 8. Frisch -59 | 9. Schaffer -59 | 10. Hancock -72 | 11. Armstrong -119 | 12. Gregory -119"
+                        "1. Mosteller | 2. Conklin -26 | 3. Walker -28 | 4. Wilkerson -28 | 5. Page -32 | 6. Thurston -39 | 7. Benton -46 | 8. Frisch -63 | 9. Schaffer -72 | 10. Hancock -80 | 11. Armstrong -124 | 12. Gregory -154"
                     ]
                 }
             ]
@@ -92,7 +92,20 @@
                         "Live on FTN, Fridays at 2:20 PM ET"
                     ]
                 }
-            ],  
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#00092F",
+                    "badgeText" : "Schedule",
+                    "messages" : [
+                        "Week 9: Autodromo Nazionale Monza",
+                        "Week 10: Circuit Zandvoort",
+                        "Week 11: Circuit de Nevers Magny-Cours",
+                        "Week 12: Circuit de Barcelona Catalunya (Grand Prix)"
+                    ]
+                }
+            ],
             [
                 {
                     "type" : "full-with-badge",
@@ -134,7 +147,7 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#0655f8",
+                    "badgeColor" : "#FD0001",
                     "badgeText" : "Results",
                     "messages" : [
                         "1. Walker | 2. Bryndac -43.47 | 3. Maindonald -1 | 4. Momkus -1 | 5. Wallner -1 | 6. Bogar -3 | 7. Cooper -3 | 8. Eby -3 | 9. De Los Santos -3 | 10. Mayer -3"
