@@ -43,7 +43,7 @@
                     "badgeColor" : "#29A302",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Terry | 2. Burley -27.302 | 3. Belda -35.100 | 4. Gonçalves =38.804 | 5. Mcdonald -41.094 | 6. Gonzalez Garcia -43.030 | 7. Raivio -1:00.418 | 8. Sandström -1:32.187 | 9. Ruzzante -1 | 10. Duboc -1"
+                        "1. Terry | 2. Burley -27.302 | 3. Belda -35.100 | 4. Gonçalves -38.804 | 5. Mcdonald -41.094 | 6. Gonzalez Garcia -43.030 | 7. Raivio -1:00.418 | 8. Sandström -1:32.187 | 9. Ruzzante -1 | 10. Duboc -1"
                     ]
                 }
             ]
@@ -112,14 +112,14 @@
                     "badgeColor" : "#0655f8",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Mayer | 2. Sawicki -11.984 | 3. Shutenko -34.672 | 4. Witzmann -37.206 | 5. Epad -39.876 | 6. Bryndac -53.089 | 7. Porak -1:10.661 | 8. Khan -1:12.905 | 9. Momkus -1:15.742 | 10. Losserer -1:22.042"
+                        "1. Balazs | 2. Athor -21.618 | 3. Mayer -43.987 | 4. Crowley -1:01.135 | 5. Kitis -1:05.995 | 6. Khan -1:17.060 | 7. Porak -1:30.608 | 8. Bogar -1:35.134 | 9. Schlaf -1:41.343 | 10. Barker -1"
                     ]
                 }
             ]
         ]
     },
     {
-        "topic" : "SNT",
+        "topic" : "NSR",
         "items" : [
             [
                 {
@@ -132,10 +132,20 @@
             [
                 {
                     "type" : "full-with-badge",
-                    "badgeColor" : "#2608F1",
+                    "badgeColor" : "#FD131E",
                     "badgeText" : "Results",
                     "messages" : [
-                        "1. Pfeiffer | 2. Benton -0.077 | 3. Difilippi -0.237 | 4. Sievert -0.279 | 5. Heath -0.344 | 6. Kallhoff -0.393 | 7. Koontz -0.468 | 8. Rahman -0.493 | 9. Chirri -0.528 | 10. Drucker -0.562"
+                        "1. Gracey | 2. Partridge -0.229 | 3. Kurdziel -2.094 | 4. Ansley -1 | 5. Crump -1 | 6. Pressey -2 | 7. Saccocci -3 | 8. Crumley -5 | 9. Fikes -8 | 10. Bitler -16"
+                    ]
+                }
+            ],
+            [
+                {
+                    "type" : "full-with-badge",
+                    "badgeColor" : "#0151F2",
+                    "badgeText" : "Points",
+                    "messages" : [
+                        "1. Gracey 46 | 2. Partridge 43 (-3) | 3. Kurdziel 42 (-4) | 4. Ansley 41 (-5) | 5. Pressey 40 (-6) | 6. Crump 39 (-7) | 7. Saccocci 37 (-9) | 8. Crumley 36 (-10) | 9. Bitler 36 (-10) | 10. Fikes 35 (-11)"
                     ]
                 }
             ]
@@ -173,7 +183,6 @@
                     "badgeColor" : "#184765",
                     "badgeText" : "Schedule",
                     "messages" : [
-                        "Race 2: Fuji International Speedway (1h 30m)",
                         "Race 3: Imola (1 Hour)",
                         "Race 4: Nürburgring Grand-Prix-Strecke (45 minutes)",
                         "Finale: Circuit des 24 Heures du Mans (2.4 hours)"
